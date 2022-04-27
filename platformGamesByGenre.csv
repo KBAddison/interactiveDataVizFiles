@@ -1,0 +1,2137 @@
+﻿Platform,Genre,Year,Amount
+Wii,Strategy ,2006,1
+Wii,Strategy ,2007,4
+Wii,Strategy ,2008,3
+Wii,Strategy ,2009,7
+Wii,Strategy ,2010,7
+Wii,Strategy ,2011,2
+Wii,Strategy ,2012,0
+Wii,Strategy ,2013,1
+Wii,Adventure,2006,1
+Wii,Adventure,2007,12
+Wii,Adventure,2008,24
+Wii,Adventure,2009,25
+Wii,Adventure,2010,15
+Wii,Adventure,2011,3
+Wii,Adventure,2012,1
+Wii,Adventure,2013,0
+Wii,Adventure,2014,1
+Wii,Adventure,N/A,1
+Wii,Fighting,2006,2
+Wii,Fighting,2007,12
+Wii,Fighting,2008,13
+Wii,Fighting,2009,6
+Wii,Fighting,2010,5
+Wii,Fighting,2011,3
+Wii,Fighting,N/A,1
+Wii,Action,2006,9
+Wii,Action,2007,38
+Wii,Action,2008,39
+Wii,Action,2009,54
+Wii,Action,2010,39
+Wii,Action,2011,29
+Wii,Action,2012,13
+Wii,Action,2013,2
+Wii,Action,2014,3
+Wii,Action,2015,3
+Wii,Action,N/A,8
+Wii,Simulation,2006,2
+Wii,Simulation,2007,15
+Wii,Simulation,2008,25
+Wii,Simulation,2009,27
+Wii,Simulation,2010,11
+Wii,Simulation,2011,2
+Wii,Simulation,2012,1
+Wii,Simulation,2013,1
+Wii,Simulation,N/A,3
+Wii,Shooter,2006,3
+Wii,Shooter,2007,13
+Wii,Shooter,2008,13
+Wii,Shooter,2009,13
+Wii,Shooter,2010,13
+Wii,Shooter,2011,6
+Wii,Shooter,N/A,4
+Wii,Misc,2006,8
+Wii,Misc,2007,25
+Wii,Misc,2008,44
+Wii,Misc,2009,65
+Wii,Misc,2010,65
+Wii,Misc,2011,50
+Wii,Misc,2012,8
+Wii,Misc,2013,4
+Wii,Misc,2014,1
+Wii,Misc,2015,1
+Wii,Misc,2016,1
+Wii,Misc,N/A,8
+Wii,Puzzle,2006,3
+Wii,Puzzle,2007,5
+Wii,Puzzle,2008,18
+Wii,Puzzle,2009,18
+Wii,Puzzle,2010,8
+Wii,Puzzle,2011,1
+Wii,Puzzle,2012,1
+Wii,Puzzle,N/A,1
+Wii,Role-Playing,2006,2
+Wii,Role-Playing,2007,5
+Wii,Role-Playing,2008,6
+Wii,Role-Playing,2009,11
+Wii,Role-Playing,2010,2
+Wii,Role-Playing,2011,7
+Wii,Role-Playing,2012,2
+Wii,Racing,2006,5
+Wii,Racing,2007,14
+Wii,Racing,2008,23
+Wii,Racing,2009,24
+Wii,Racing,2010,15
+Wii,Racing,2011,9
+Wii,Racing,2012,1
+Wii,Racing,N/A,2
+Wii,Platform,2006,4
+Wii,Platform,2007,10
+Wii,Platform,2008,15
+Wii,Platform,2009,8
+Wii,Platform,2010,12
+Wii,Platform,2011,6
+Wii,Platform,2012,0
+Wii,Platform,2013,2
+Wii,Platform,N/A,1
+Wii,Sports,2006,4
+Wii,Sports,2007,32
+Wii,Sports,2008,59
+Wii,Sports,2009,67
+Wii,Sports,2010,61
+Wii,Sports,2011,25
+Wii,Sports,2012,4
+Wii,Sports,2013,2
+Wii,Sports,2014,1
+Wii,Sports,N/A,5
+NES,Adventure,1987,1
+NES,Fighting,1985,1
+NES,Fighting,1986,0
+NES,Fighting,1987,2
+NES,Fighting,1988,0
+NES,Fighting,1989,0
+NES,Fighting,1990,0
+NES,Fighting,1991,0
+NES,Fighting,1992,1
+NES,Action,1984,1
+NES,Action,1985,1
+NES,Action,1986,6
+NES,Action,1987,0
+NES,Action,1988,1
+NES,Action,1989,1
+NES,Action,1990,1
+NES,Action,1991,1
+NES,Action,1992,0
+NES,Action,1993,1
+NES,Shooter,1984,3
+NES,Shooter,1985,1
+NES,Shooter,1986,3
+NES,Misc,1983,1
+NES,Misc,1984,1
+NES,Puzzle,1984,3
+NES,Puzzle,1985,3
+NES,Puzzle,1986,0
+NES,Puzzle,1987,0
+NES,Puzzle,1988,1
+NES,Puzzle,1989,1
+NES,Puzzle,1990,1
+NES,Puzzle,1991,3
+NES,Puzzle,1992,1
+NES,Puzzle,1993,1
+NES,Role-Playing,1986,1
+NES,Role-Playing,1987,3
+NES,Role-Playing,1988,3
+NES,Role-Playing,1989,1
+NES,Role-Playing,1990,2
+NES,Role-Playing,1991,0
+NES,Role-Playing,1992,0
+NES,Role-Playing,1993,0
+NES,Role-Playing,1994,1
+NES,Racing,1984,2
+NES,Racing,1985,0
+NES,Racing,1986,1
+NES,Racing,1987,0
+NES,Racing,1988,1
+NES,Platform,1983,4
+NES,Platform,1984,1
+NES,Platform,1985,4
+NES,Platform,1986,6
+NES,Platform,1987,2
+NES,Platform,1988,3
+NES,Platform,1989,2
+NES,Platform,1990,2
+NES,Platform,1991,1
+NES,Platform,1992,1
+NES,Platform,1993,2
+NES,Sports,1983,1
+NES,Sports,1984,2
+NES,Sports,1985,1
+NES,Sports,1986,2
+NES,Sports,1987,2
+NES,Sports,1988,2
+NES,Sports,1989,0
+NES,Sports,1990,2
+NES,Sports,1991,2
+GB,Strategy ,1991,1
+GB,Strategy ,1992,0
+GB,Strategy ,1993,0
+GB,Strategy ,1994,0
+GB,Strategy ,1995,0
+GB,Strategy ,1996,0
+GB,Strategy ,1997,1
+GB,Strategy ,1998,2
+GB,Strategy ,1999,1
+GB,Strategy ,2000,1
+GB,Strategy ,2001,1
+GB,Adventure,1991,1
+GB,Adventure,1992,1
+GB,Adventure,1993,0
+GB,Adventure,1994,0
+GB,Adventure,1995,0
+GB,Adventure,1996,0
+GB,Adventure,1997,0
+GB,Adventure,1998,1
+GB,Adventure,1999,0
+GB,Adventure,2000,1
+GB,Adventure,2001,1
+GB,Action,1991,1
+GB,Action,1992,1
+GB,Action,1993,0
+GB,Action,1994,0
+GB,Action,1995,0
+GB,Action,1996,0
+GB,Action,1997,0
+GB,Action,1998,0
+GB,Action,1999,1
+GB,Action,2000,1
+GB,Action,2001,2
+GB,Simulation,1996,1
+GB,Simulation,1997,2
+GB,Simulation,1998,0
+GB,Simulation,1999,2
+GB,Shooter,1989,1
+GB,Misc,1989,1
+GB,Misc,1990,0
+GB,Misc,1991,0
+GB,Misc,1992,1
+GB,Misc,1993,0
+GB,Misc,1994,0
+GB,Misc,1995,1
+GB,Misc,1996,0
+GB,Misc,1997,2
+GB,Misc,1998,0
+GB,Misc,1999,2
+GB,Misc,2000,1
+GB,Puzzle,1989,3
+GB,Puzzle,1990,1
+GB,Puzzle,1991,1
+GB,Puzzle,1992,3
+GB,Puzzle,1993,0
+GB,Puzzle,1994,0
+GB,Puzzle,1995,2
+GB,Puzzle,1996,2
+GB,Puzzle,1997,1
+GB,Puzzle,1998,1
+GB,Puzzle,1999,0
+GB,Puzzle,2000,1
+GB,Role-Playing,1989,1
+GB,Role-Playing,1990,0
+GB,Role-Playing,1991,2
+GB,Role-Playing,1992,0
+GB,Role-Playing,1993,0
+GB,Role-Playing,1994,0
+GB,Role-Playing,1995,0
+GB,Role-Playing,1996,2
+GB,Role-Playing,1997,1
+GB,Role-Playing,1998,2
+GB,Role-Playing,1999,3
+GB,Role-Playing,2000,5
+GB,Role-Playing,2001,5
+GB,Racing,1990,1
+GB,Racing,1991,1
+GB,Platform,1988,1
+GB,Platform,1989,1
+GB,Platform,1990,0
+GB,Platform,1991,2
+GB,Platform,1992,1
+GB,Platform,1993,0
+GB,Platform,1994,3
+GB,Platform,1995,1
+GB,Platform,1996,1
+GB,Platform,1997,1
+GB,Platform,1998,1
+GB,Platform,1999,1
+GB,Platform,2000,4
+GB,Platform,2001,1
+GB,Platform,N/A,1
+GB,Sports,1989,3
+GB,Sports,1990,1
+GB,Sports,1991,0
+GB,Sports,1992,0
+GB,Sports,1993,0
+GB,Sports,1994,0
+GB,Sports,1995,0
+GB,Sports,1996,0
+GB,Sports,1997,0
+GB,Sports,1998,1
+GB,Sports,1999,1
+GB,Sports,2000,3
+DS,Strategy ,2005,5
+DS,Strategy ,2006,7
+DS,Strategy ,2007,19
+DS,Strategy ,2008,18
+DS,Strategy ,2009,12
+DS,Strategy ,2010,10
+DS,Strategy ,2011,7
+DS,Strategy ,N/A,1
+DS,Adventure,2004,1
+DS,Adventure,2005,4
+DS,Adventure,2006,14
+DS,Adventure,2007,32
+DS,Adventure,2008,74
+DS,Adventure,2009,51
+DS,Adventure,2010,43
+DS,Adventure,2011,14
+DS,Adventure,2012,2
+DS,Adventure,2013,1
+DS,Adventure,N/A,2
+DS,Fighting ,2005,4
+DS,Fighting ,2006,7
+DS,Fighting ,2007,10
+DS,Fighting ,2008,4
+DS,Fighting ,2009,5
+DS,Fighting ,2010,4
+DS,Fighting ,2011,2
+DS,Action,1985,1
+DS,Action,1986,0
+DS,Action,1987,0
+DS,Action,1988,0
+DS,Action,1989,0
+DS,Action,1990,0
+DS,Action,1991,0
+DS,Action,1992,0
+DS,Action,1993,0
+DS,Action,1994,0
+DS,Action,1995,0
+DS,Action,1996,0
+DS,Action,1997,0
+DS,Action,1998,0
+DS,Action,1999,0
+DS,Action,2000,0
+DS,Action,2001,0
+DS,Action,2002,0
+DS,Action,2003,0
+DS,Action,2004,1
+DS,Action,2005,18
+DS,Action,2006,40
+DS,Action,2007,54
+DS,Action,2008,58
+DS,Action,2009,63
+DS,Action,2010,53
+DS,Action,2011,30
+DS,Action,2012,13
+DS,Action,2013,2
+DS,Action,N/A,7
+DS,Simulation,2004,3
+DS,Simulation,2005,10
+DS,Simulation,2006,14
+DS,Simulation,2007,46
+DS,Simulation,2008,77
+DS,Simulation,2009,72
+DS,Simulation,2010,44
+DS,Simulation,2011,11
+DS,Simulation,2012,0
+DS,Simulation,2013,1
+DS,Simulation,2014,0
+DS,Simulation,2015,0
+DS,Simulation,2016,0
+DS,Simulation,2017,0
+DS,Simulation,2018,0
+DS,Simulation,2019,0
+DS,Simulation,2020,1
+DS,Simulation,N/A,5
+DS,Shooter,2005,4
+DS,Shooter,2006,7
+DS,Shooter,2007,8
+DS,Shooter,2008,9
+DS,Shooter,2009,7
+DS,Shooter,2010,4
+DS,Shooter,2011,3
+DS,Misc,2004,3
+DS,Misc,2005,18
+DS,Misc,2006,37
+DS,Misc,2007,70
+DS,Misc,2008,92
+DS,Misc,2009,60
+DS,Misc,2010,70
+DS,Misc,2011,35
+DS,Misc,2012,1
+DS,Misc,2013,1
+DS,Misc,N/A,4
+DS,Puzzle,2004,7
+DS,Puzzle,2005,15
+DS,Puzzle,2006,18
+DS,Puzzle,2007,45
+DS,Puzzle,2008,36
+DS,Puzzle,2009,54
+DS,Puzzle,2010,31
+DS,Puzzle,2011,24
+DS,Puzzle,2012,4
+DS,Puzzle,N/A,2
+DS,Role-Playing,2005,9
+DS,Role-Playing,2006,27
+DS,Role-Playing,2007,34
+DS,Role-Playing,2008,54
+DS,Role-Playing,2009,33
+DS,Role-Playing,2010,28
+DS,Role-Playing,2011,9
+DS,Role-Playing,2012,2
+DS,Role-Playing,N/A,4
+DS,Racing,2004,4
+DS,Racing,2005,7
+DS,Racing,2006,3
+DS,Racing,2007,12
+DS,Racing,2008,14
+DS,Racing,2009,15
+DS,Racing,2010,8
+DS,Racing,2011,3
+DS,Racing,N/A,1
+DS,Platform,2004,1
+DS,Platform,2005,15
+DS,Platform,2006,16
+DS,Platform,2007,18
+DS,Platform,2008,15
+DS,Platform,2009,6
+DS,Platform,2010,7
+DS,Platform,2011,9
+DS,Platform,2012,0
+DS,Platform,2013,2
+DS,Platform,N/A,2
+DS,Sports,2004,3
+DS,Sports,2005,9
+DS,Sports,2006,11
+DS,Sports,2007,28
+DS,Sports,2008,41
+DS,Sports,2009,25
+DS,Sports,2010,21
+DS,Sports,2011,6
+DS,Sports,2012,1
+DS,Sports,2013,1
+DS,Sports,N/A,2
+X360,Strategy ,2006,3
+X360,Strategy ,2007,6
+X360,Strategy ,2008,6
+X360,Strategy ,2009,4
+X360,Strategy ,2010,6
+X360,Strategy ,2011,0
+X360,Strategy ,2012,1
+X360,Strategy ,2013,1
+X360,Strategy ,N/A,1
+X360,Adventure,2007,2
+X360,Adventure,2008,3
+X360,Adventure,2009,8
+X360,Adventure,2010,8
+X360,Adventure,2011,11
+X360,Adventure,2012,4
+X360,Adventure,2013,1
+X360,Adventure,2014,6
+X360,Adventure,2015,4
+X360,Adventure,2016,1
+X360,Fighting ,2005,1
+X360,Fighting ,2006,5
+X360,Fighting ,2007,2
+X360,Fighting ,2008,7
+X360,Fighting ,2009,10
+X360,Fighting ,2010,10
+X360,Fighting ,2011,14
+X360,Fighting ,2012,9
+X360,Fighting ,2013,2
+X360,Fighting ,2014,4
+X360,Fighting ,2015,1
+X360,Action,2005,5
+X360,Action,2006,19
+X360,Action,2007,28
+X360,Action,2008,35
+X360,Action,2009,42
+X360,Action,2010,40
+X360,Action,2011,46
+X360,Action,2012,40
+X360,Action,2013,27
+X360,Action,2014,19
+X360,Action,2015,13
+X360,Action,2016,3
+X360,Action,N/A,6
+X360,Simulation,2006,4
+X360,Simulation,2007,6
+X360,Simulation,2008,3
+X360,Simulation,2009,3
+X360,Simulation,2010,5
+X360,Simulation,2011,7
+X360,Simulation,2012,4
+X360,Simulation,2013,2
+X360,Simulation,2014,1
+X360,Simulation,2015,1
+X360,Simulation,N/A,4
+X360,Shooter,2005,3
+X360,Shooter,2006,16
+X360,Shooter,2007,20
+X360,Shooter,2008,22
+X360,Shooter,2009,28
+X360,Shooter,2010,28
+X360,Shooter,2011,31
+X360,Shooter,2012,15
+X360,Shooter,2013,19
+X360,Shooter,2014,11
+X360,Shooter,2015,3
+X360,Shooter,2016,1
+X360,Shooter,N/A,6
+X360,Misc,2006,3
+X360,Misc,2007,7
+X360,Misc,2008,17
+X360,Misc,2009,22
+X360,Misc,2010,19
+X360,Misc,2011,41
+X360,Misc,2012,5
+X360,Misc,2013,4
+X360,Misc,2014,2
+X360,Misc,2015,2
+X360,Misc,2016,1
+X360,Misc,N/A,4
+X360,Puzzle,2006,1
+X360,Puzzle,2007,3
+X360,Puzzle,2008,0
+X360,Puzzle,2009,2
+X360,Puzzle,N/A,1
+X360,Role-Playing,2006,10
+X360,Role-Playing,2007,9
+X360,Role-Playing,2008,9
+X360,Role-Playing,2009,11
+X360,Role-Playing,2010,13
+X360,Role-Playing,2011,9
+X360,Role-Playing,2012,6
+X360,Role-Playing,2013,2
+X360,Role-Playing,2014,6
+X360,Racing,2005,3
+X360,Racing,2006,7
+X360,Racing,2007,15
+X360,Racing,2008,11
+X360,Racing,2009,13
+X360,Racing,2010,15
+X360,Racing,2011,16
+X360,Racing,2012,9
+X360,Racing,2013,4
+X360,Racing,2014,7
+X360,Racing,2015,1
+X360,Racing,N/A,3
+X360,Platform,2006,2
+X360,Platform,2007,1
+X360,Platform,2008,8
+X360,Platform,2009,3
+X360,Platform,2010,2
+X360,Platform,2011,3
+X360,Platform,2012,0
+X360,Platform,2013,4
+X360,Platform,2014,0
+X360,Platform,2015,1
+X360,Platform,2016,1
+X360,Sports,2005,6
+X360,Sports,2006,23
+X360,Sports,2007,24
+X360,Sports,2008,25
+X360,Sports,2009,26
+X360,Sports,2010,36
+X360,Sports,2011,28
+X360,Sports,2012,13
+X360,Sports,2013,9
+X360,Sports,2014,7
+X360,Sports,2015,9
+X360,Sports,2016,6
+X360,Sports,N/A,5
+PS3,Strategy ,2008,3
+PS3,Strategy ,2009,5
+PS3,Strategy ,2010,2
+PS3,Strategy ,2011,4
+PS3,Strategy ,2012,4
+PS3,Strategy ,2013,3
+PS3,Strategy ,2014,1
+PS3,Strategy ,N/A,2
+PS3,Adventure,2007,3
+PS3,Adventure,2008,5
+PS3,Adventure,2009,3
+PS3,Adventure,2010,6
+PS3,Adventure,2011,13
+PS3,Adventure,2012,13
+PS3,Adventure,2013,8
+PS3,Adventure,2014,12
+PS3,Adventure,2015,7
+PS3,Adventure,2016,2
+PS3,Adventure,N/A,2
+PS3,Fighting ,2006,1
+PS3,Fighting ,2007,2
+PS3,Fighting ,2008,7
+PS3,Fighting ,2009,9
+PS3,Fighting ,2010,8
+PS3,Fighting ,2011,16
+PS3,Fighting ,2012,9
+PS3,Fighting ,2013,7
+PS3,Fighting ,2014,10
+PS3,Fighting ,2015,5
+PS3,Fighting ,2016,2
+PS3,Action,2006,3
+PS3,Action,2007,21
+PS3,Action,2008,30
+PS3,Action,2009,43
+PS3,Action,2010,47
+PS3,Action,2011,59
+PS3,Action,2012,56
+PS3,Action,2013,37
+PS3,Action,2014,29
+PS3,Action,2015,35
+PS3,Action,2016,13
+PS3,Action,N/A,7
+PS3,Simulation,2006,4
+PS3,Simulation,2007,2
+PS3,Simulation,2008,1
+PS3,Simulation,2009,3
+PS3,Simulation,2010,4
+PS3,Simulation,2011,5
+PS3,Simulation,2012,5
+PS3,Simulation,2013,4
+PS3,Simulation,2014,1
+PS3,Simulation,2015,1
+PS3,Simulation,N/A,1
+PS3,Shooter,2006,2
+PS3,Shooter,2007,15
+PS3,Shooter,2008,22
+PS3,Shooter,2009,19
+PS3,Shooter,2010,19
+PS3,Shooter,2011,28
+PS3,Shooter,2012,19
+PS3,Shooter,2013,17
+PS3,Shooter,2014,10
+PS3,Shooter,2015,3
+PS3,Shooter,2016,1
+PS3,Shooter,N/A,1
+PS3,Misc,2006,2
+PS3,Misc,2007,5
+PS3,Misc,2008,15
+PS3,Misc,2009,28
+PS3,Misc,2010,24
+PS3,Misc,2011,26
+PS3,Misc,2012,4
+PS3,Misc,2013,4
+PS3,Misc,2014,5
+PS3,Misc,2015,3
+PS3,Misc,2016,6
+PS3,Misc,N/A,3
+PS3,Puzzle,2009,1
+PS3,Puzzle,2010,0
+PS3,Puzzle,2011,0
+PS3,Puzzle,2012,0
+PS3,Puzzle,2013,0
+PS3,Puzzle,2014,1
+PS3,Puzzle,N/A,1
+PS3,Role-Playing,2006,2
+PS3,Role-Playing,2007,5
+PS3,Role-Playing,2008,7
+PS3,Role-Playing,2009,10
+PS3,Role-Playing,2010,17
+PS3,Role-Playing,2011,15
+PS3,Role-Playing,2012,12
+PS3,Role-Playing,2013,21
+PS3,Role-Playing,2014,18
+PS3,Role-Playing,2015,5
+PS3,Role-Playing,2016,5
+PS3,Role-Playing,N/A,2
+PS3,Racing,2006,5
+PS3,Racing,2007,10
+PS3,Racing,2008,13
+PS3,Racing,2009,13
+PS3,Racing,2010,12
+PS3,Racing,2011,16
+PS3,Racing,2012,8
+PS3,Racing,2013,5
+PS3,Racing,2014,6
+PS3,Racing,2015,2
+PS3,Racing,N/A,2
+PS3,Platform,2006,1
+PS3,Platform,2007,2
+PS3,Platform,2008,7
+PS3,Platform,2009,4
+PS3,Platform,2010,5
+PS3,Platform,2011,6
+PS3,Platform,2012,2
+PS3,Platform,2013,6
+PS3,Platform,2014,2
+PS3,Platform,2015,0
+PS3,Platform,2016,1
+PS3,Platform,N/A,1
+PS3,Sports,2006,7
+PS3,Sports,2007,25
+PS3,Sports,2008,28
+PS3,Sports,2009,24
+PS3,Sports,2010,37
+PS3,Sports,2011,27
+PS3,Sports,2012,16
+PS3,Sports,2013,14
+PS3,Sports,2014,13
+PS3,Sports,2015,12
+PS3,Sports,2016,8
+PS3,Sports,N/A,3
+PS2,Strategy ,2000,5
+PS2,Strategy ,2001,2
+PS2,Strategy ,2002,11
+PS2,Strategy ,2003,11
+PS2,Strategy ,2004,9
+PS2,Strategy ,2005,5
+PS2,Strategy ,2006,7
+PS2,Strategy ,2007,14
+PS2,Strategy ,2008,2
+PS2,Strategy ,2009,4
+PS2,Strategy ,N/A,1
+PS2,Adventure,2000,2
+PS2,Adventure,2001,5
+PS2,Adventure,2002,22
+PS2,Adventure,2003,5
+PS2,Adventure,2004,12
+PS2,Adventure,2005,10
+PS2,Adventure,2006,38
+PS2,Adventure,2007,30
+PS2,Adventure,2008,41
+PS2,Adventure,2009,16
+PS2,Adventure,2010,13
+PS2,Adventure,2011,2
+PS2,Fighting,2000,8
+PS2,Fighting,2001,6
+PS2,Fighting,2002,17
+PS2,Fighting,2003,19
+PS2,Fighting,2004,18
+PS2,Fighting,2005,15
+PS2,Fighting,2006,22
+PS2,Fighting,2007,18
+PS2,Fighting,2008,13
+PS2,Fighting,2009,7
+PS2,Fighting,2010,2
+PS2,Fighting,2011,1
+PS2,Fighting,N/A,4
+PS2,Action,2000,6
+PS2,Action,2001,22
+PS2,Action,2002,34
+PS2,Action,2003,46
+PS2,Action,2004,44
+PS2,Action,2005,61
+PS2,Action,2006,47
+PS2,Action,2007,31
+PS2,Action,2008,30
+PS2,Action,2009,18
+PS2,Action,2010,5
+PS2,Action,2011,1
+PS2,Action,N/A,3
+PS2,Simulation,2000,8
+PS2,Simulation,2001,17
+PS2,Simulation,2002,5
+PS2,Simulation,2003,11
+PS2,Simulation,2004,10
+PS2,Simulation,2005,8
+PS2,Simulation,2006,14
+PS2,Simulation,2007,10
+PS2,Simulation,2008,4
+PS2,Simulation,2009,2
+PS2,Simulation,N/A,1
+PS2,Shooter,2000,6
+PS2,Shooter,2001,19
+PS2,Shooter,2002,26
+PS2,Shooter,2003,21
+PS2,Shooter,2004,30
+PS2,Shooter,2005,29
+PS2,Shooter,2006,14
+PS2,Shooter,2007,3
+PS2,Shooter,2008,6
+PS2,Shooter,2009,3
+PS2,Shooter,2010,1
+PS2,Shooter,N/A,2
+PS2,Misc,2000,1
+PS2,Misc,2001,14
+PS2,Misc,2002,17
+PS2,Misc,2003,25
+PS2,Misc,2004,22
+PS2,Misc,2005,28
+PS2,Misc,2006,24
+PS2,Misc,2007,32
+PS2,Misc,2008,32
+PS2,Misc,2009,20
+PS2,Misc,2010,3
+PS2,Misc,N/A,4
+PS2,Puzzle,2000,5
+PS2,Puzzle,2001,0
+PS2,Puzzle,2002,4
+PS2,Puzzle,2003,1
+PS2,Puzzle,2004,1
+PS2,Puzzle,2005,1
+PS2,Puzzle,2006,2
+PS2,Puzzle,2007,1
+PS2,Puzzle,2008,3
+PS2,Role-Playing,2000,7
+PS2,Role-Playing,2001,14
+PS2,Role-Playing,2002,21
+PS2,Role-Playing,2003,17
+PS2,Role-Playing,2004,29
+PS2,Role-Playing,2005,29
+PS2,Role-Playing,2006,29
+PS2,Role-Playing,2007,26
+PS2,Role-Playing,2008,9
+PS2,Role-Playing,2009,1
+PS2,Role-Playing,2010,1
+PS2,Role-Playing,N/A,4
+PS2,Racing,2000,10
+PS2,Racing,2001,35
+PS2,Racing,2002,40
+PS2,Racing,2003,32
+PS2,Racing,2004,24
+PS2,Racing,2005,23
+PS2,Racing,2006,18
+PS2,Racing,2007,14
+PS2,Racing,2008,11
+PS2,Racing,2009,5
+PS2,Racing,N/A,4
+PS2,Platform,2000,2
+PS2,Platform,2001,10
+PS2,Platform,2002,15
+PS2,Platform,2003,20
+PS2,Platform,2004,17
+PS2,Platform,2005,14
+PS2,Platform,2006,6
+PS2,Platform,2007,3
+PS2,Platform,2008,10
+PS2,Platform,2009,2
+PS2,Platform,2010,2
+PS2,Platform,N/A,2
+PS2,Sports,2000,22
+PS2,Sports,2001,41
+PS2,Sports,2002,68
+PS2,Sports,2003,48
+PS2,Sports,2004,43
+PS2,Sports,2005,37
+PS2,Sports,2006,38
+PS2,Sports,2007,32
+PS2,Sports,2008,30
+PS2,Sports,2009,18
+PS2,Sports,2010,11
+PS2,Sports,2011,3
+PS2,Sports,N/A,9
+SNES,Strategy ,1991,3
+SNES,Strategy ,1992,1
+SNES,Strategy ,1993,1
+SNES,Strategy ,1994,3
+SNES,Strategy ,1995,4
+SNES,Strategy ,1996,2
+SNES,Strategy ,1997,0
+SNES,Strategy ,1998,0
+SNES,Strategy ,1999,1
+SNES,Adventure,1991,1
+SNES,Adventure,1992,1
+SNES,Adventure,1993,0
+SNES,Adventure,1994,1
+SNES,Adventure,1995,1
+SNES,Fighting,1991,1
+SNES,Fighting,1992,4
+SNES,Fighting,1993,8
+SNES,Fighting,1994,8
+SNES,Fighting,1995,3
+SNES,Fighting,1996,1
+SNES,Action,1990,1
+SNES,Action,1991,3
+SNES,Action,1992,0
+SNES,Action,1993,3
+SNES,Action,1994,4
+SNES,Action,1995,1
+SNES,Simulation,1990,1
+SNES,Simulation,1991,2
+SNES,Simulation,1992,0
+SNES,Simulation,1993,1
+SNES,Simulation,1994,3
+SNES,Simulation,1995,2
+SNES,Shooter,1991,3
+SNES,Shooter,1992,1
+SNES,Shooter,1993,2
+SNES,Shooter,1994,2
+SNES,Shooter,1995,1
+SNES,Shooter,1996,1
+SNES,Misc,1991,1
+SNES,Misc,1992,1
+SNES,Misc,1993,3
+SNES,Misc,1994,2
+SNES,Misc,1995,5
+SNES,Misc,1996,5
+SNES,Puzzle,1992,1
+SNES,Puzzle,1993,2
+SNES,Puzzle,1994,2
+SNES,Puzzle,1995,5
+SNES,Puzzle,1996,2
+SNES,Puzzle,1997,1
+SNES,Role-Playing,1991,3
+SNES,Role-Playing,1992,5
+SNES,Role-Playing,1993,8
+SNES,Role-Playing,1994,11
+SNES,Role-Playing,1995,13
+SNES,Role-Playing,1996,10
+SNES,Racing,1990,1
+SNES,Racing,1991,0
+SNES,Racing,1992,2
+SNES,Racing,1993,2
+SNES,Racing,1994,1
+SNES,Racing,1995,2
+SNES,Racing,1996,1
+SNES,Platform,1990,1
+SNES,Platform,1991,2
+SNES,Platform,1992,2
+SNES,Platform,1993,7
+SNES,Platform,1994,3
+SNES,Platform,1995,7
+SNES,Platform,1996,2
+SNES,Platform,1997,1
+SNES,Platform,1998,1
+SNES,Sports,1991,5
+SNES,Sports,1992,3
+SNES,Sports,1993,9
+SNES,Sports,1994,13
+SNES,Sports,1995,10
+SNES,Sports,1996,6
+SNES,Sports,1997,2
+SNES,Sports,1998,1
+GBA,Strategy ,2001,5
+GBA,Strategy ,2002,3
+GBA,Strategy ,2003,5
+GBA,Strategy ,2004,3
+GBA,Strategy ,2005,2
+GBA,Adventure,2001,5
+GBA,Adventure,2002,5
+GBA,Adventure,2003,1
+GBA,Adventure,2004,16
+GBA,Adventure,2005,7
+GBA,Adventure,2006,2
+GBA,Adventure,2007,1
+GBA,Adventure,N/A,1
+GBA,Fighting,2001,4
+GBA,Fighting,2002,11
+GBA,Fighting,2003,5
+GBA,Fighting,2004,3
+GBA,Action,2001,17
+GBA,Action,2002,38
+GBA,Action,2003,34
+GBA,Action,2004,33
+GBA,Action,2005,28
+GBA,Action,2006,10
+GBA,Action,2007,2
+GBA,Action,N/A,5
+GBA,Simulation,2001,1
+GBA,Simulation,2002,3
+GBA,Simulation,2003,6
+GBA,Simulation,2004,4
+GBA,Simulation,2005,3
+GBA,Simulation,2006,1
+GBA,Shooter,2001,4
+GBA,Shooter,2002,17
+GBA,Shooter,2003,6
+GBA,Shooter,2004,10
+GBA,Shooter,2005,2
+GBA,Shooter,2006,1
+GBA,Misc,2001,6
+GBA,Misc,2002,13
+GBA,Misc,2003,12
+GBA,Misc,2004,34
+GBA,Misc,2005,38
+GBA,Misc,2006,4
+GBA,Misc,2007,3
+GBA,Puzzle,2001,11
+GBA,Puzzle,2002,7
+GBA,Puzzle,2003,2
+GBA,Puzzle,2004,10
+GBA,Puzzle,2005,7
+GBA,Puzzle,2006,2
+GBA,Puzzle,N/A,2
+GBA,Role-Playing,2001,11
+GBA,Role-Playing,2002,21
+GBA,Role-Playing,2003,13
+GBA,Role-Playing,2004,13
+GBA,Role-Playing,2005,8
+GBA,Role-Playing,2006,7
+GBA,Racing,2001,9
+GBA,Racing,2002,17
+GBA,Racing,2003,17
+GBA,Racing,2004,10
+GBA,Racing,2005,9
+GBA,Racing,2006,2
+GBA,Platform,2001,20
+GBA,Platform,2002,33
+GBA,Platform,2003,32
+GBA,Platform,2004,25
+GBA,Platform,2005,23
+GBA,Platform,2006,6
+GBA,Platform,N/A,3
+GBA,Sports,2000,1
+GBA,Sports,2001,14
+GBA,Sports,2002,30
+GBA,Sports,2003,17
+GBA,Sports,2004,14
+GBA,Sports,2005,8
+GBA,Sports,2006,4
+PS4,Strategy ,2013,1
+PS4,Strategy ,2014,2
+PS4,Strategy ,2015,1
+PS4,Strategy ,2016,2
+PS4,Adventure,2014,4
+PS4,Adventure,2015,10
+PS4,Adventure,2016,14
+PS4,Fighting ,2013,1
+PS4,Fighting ,2014,1
+PS4,Fighting ,2015,9
+PS4,Fighting ,2016,7
+PS4,Action,2013,2
+PS4,Action,2014,31
+PS4,Action,2015,52
+PS4,Action,2016,59
+PS4,Simulation,2015,2
+PS4,Simulation,2016,4
+PS4,Shooter,2013,3
+PS4,Shooter,2014,7
+PS4,Shooter,2015,11
+PS4,Shooter,2016,20
+PS4,Misc,2013,1
+PS4,Misc,2014,5
+PS4,Misc,2015,4
+PS4,Misc,2016,10
+PS4,Puzzle,2015,1
+PS4,Role-Playing,2014,8
+PS4,Role-Playing,2015,25
+PS4,Role-Playing,2016,18
+PS4,Role-Playing,2017,1
+PS4,Racing,2013,1
+PS4,Racing,2014,4
+PS4,Racing,2015,5
+PS4,Racing,2016,9
+PS4,Platform,2013,3
+PS4,Platform,2014,2
+PS4,Platform,2015,2
+PS4,Platform,2016,5
+PS4,Sports,2013,4
+PS4,Sports,2014,11
+PS4,Sports,2015,15
+PS4,Sports,2016,16
+3DS,Strategy ,2011,4
+3DS,Strategy ,2012,0
+3DS,Strategy ,2013,3
+3DS,Strategy ,2014,3
+3DS,Strategy ,2015,4
+3DS,Strategy ,2016,1
+3DS,Adventure,2011,4
+3DS,Adventure,2012,6
+3DS,Adventure,2013,6
+3DS,Adventure,2014,12
+3DS,Adventure,2015,4
+3DS,Adventure,2016,5
+3DS,Adventure,N/A,1
+3DS,Fighting ,2011,5
+3DS,Fighting ,2012,2
+3DS,Fighting ,2013,2
+3DS,Fighting ,2014,2
+3DS,Fighting ,2015,2
+3DS,Fighting ,2016,1
+3DS,Action,2011,31
+3DS,Action,2012,40
+3DS,Action,2013,29
+3DS,Action,2014,26
+3DS,Action,2015,39
+3DS,Action,2016,22
+3DS,Action,N/A,1
+3DS,Simulation,2011,9
+3DS,Simulation,2012,5
+3DS,Simulation,2013,5
+3DS,Simulation,2014,4
+3DS,Simulation,2015,3
+3DS,Simulation,2016,3
+3DS,Simulation,N/A,2
+3DS,Shooter,2011,4
+3DS,Shooter,2012,1
+3DS,Shooter,2013,1
+3DS,Shooter,N/A,1
+3DS,Misc,2011,13
+3DS,Misc,2012,9
+3DS,Misc,2013,12
+3DS,Misc,2014,5
+3DS,Misc,2015,10
+3DS,Misc,2016,5
+3DS,Puzzle,2011,7
+3DS,Puzzle,2012,4
+3DS,Puzzle,2013,2
+3DS,Puzzle,2014,3
+3DS,Puzzle,2015,4
+3DS,Role-Playing,2011,8
+3DS,Role-Playing,2012,17
+3DS,Role-Playing,2013,21
+3DS,Role-Playing,2014,19
+3DS,Role-Playing,2015,15
+3DS,Role-Playing,2016,7
+3DS,Role-Playing,N/A,1
+3DS,Racing,2011,9
+3DS,Racing,2012,1
+3DS,Racing,N/A,1
+3DS,Platform,2011,9
+3DS,Platform,2012,4
+3DS,Platform,2013,7
+3DS,Platform,2014,2
+3DS,Platform,2015,4
+3DS,Platform,2016,2
+3DS,Sports,2011,13
+3DS,Sports,2012,4
+3DS,Sports,2013,3
+3DS,Sports,2014,4
+3DS,Sports,2015,1
+3DS,Sports,N/A,1
+N64,Strategy ,1998,1
+N64,Strategy ,1999,5
+N64,Strategy ,2000,3
+N64,Adventure,1997,1
+N64,Adventure,1998,0
+N64,Adventure,1999,3
+N64,Fighting ,1996,2
+N64,Fighting ,1997,8
+N64,Fighting ,1998,7
+N64,Fighting ,1999,7
+N64,Fighting ,2000,5
+N64,Action,1996,2
+N64,Action,1997,5
+N64,Action,1998,7
+N64,Action,1999,12
+N64,Action,2000,10
+N64,Action,2001,1
+N64,Action,N/A,1
+N64,Simulation,1996,2
+N64,Simulation,1997,0
+N64,Simulation,1998,2
+N64,Simulation,1999,4
+N64,Simulation,2000,1
+N64,Simulation,2001,1
+N64,Shooter,1996,1
+N64,Shooter,1997,5
+N64,Shooter,1998,6
+N64,Shooter,1999,9
+N64,Shooter,2000,3
+N64,Misc,1996,2
+N64,Misc,1997,2
+N64,Misc,1998,4
+N64,Misc,1999,8
+N64,Misc,2000,2
+N64,Puzzle,1997,5
+N64,Puzzle,1998,2
+N64,Puzzle,1999,1
+N64,Puzzle,2000,3
+N64,Puzzle,2001,1
+N64,Role-Playing,1998,1
+N64,Role-Playing,1999,2
+N64,Role-Playing,2000,3
+N64,Role-Playing,2001,1
+N64,Role-Playing,N/A,1
+N64,Racing ,1996,3
+N64,Racing ,1997,8
+N64,Racing ,1998,16
+N64,Racing ,1999,20
+N64,Racing ,2000,10
+N64,Platform,1996,1
+N64,Platform,1997,4
+N64,Platform,1998,7
+N64,Platform,1999,9
+N64,Platform,2000,8
+N64,Platform,2001,1
+N64,Sports,1996,5
+N64,Sports,1997,11
+N64,Sports,1998,24
+N64,Sports,1999,22
+N64,Sports,2000,12
+N64,Sports,2001,4
+N64,Sports,2002,1
+PS,Strategy ,1994,1
+PS,Strategy ,1995,6
+PS,Strategy ,1996,6
+PS,Strategy ,1997,13
+PS,Strategy ,1998,20
+PS,Strategy ,1999,17
+PS,Strategy ,2000,5
+PS,Strategy ,2001,3
+PS,Adventure,1994,1
+PS,Adventure,1995,6
+PS,Adventure,1996,9
+PS,Adventure,1997,8
+PS,Adventure,1998,12
+PS,Adventure,1999,13
+PS,Adventure,2000,9
+PS,Adventure,2001,7
+PS,Adventure,2002,2
+PS,Adventure,N/A,2
+PS,Fighting ,1994,2
+PS,Fighting ,1995,12
+PS,Fighting ,1996,17
+PS,Fighting ,1997,16
+PS,Fighting ,1998,29
+PS,Fighting ,1999,14
+PS,Fighting ,2000,11
+PS,Fighting ,2001,4
+PS,Fighting ,2002,3
+PS,Action,1995,6
+PS,Action,1996,17
+PS,Action,1997,23
+PS,Action,1998,34
+PS,Action,1999,25
+PS,Action,2000,26
+PS,Action,2001,18
+PS,Action,2002,5
+PS,Action,N/A,3
+PS,Simulation,1994,2
+PS,Simulation,1995,9
+PS,Simulation,1996,7
+PS,Simulation,1997,17
+PS,Simulation,1998,5
+PS,Simulation,1999,13
+PS,Simulation,2000,4
+PS,Simulation,2001,2
+PS,Simulation,2002,1
+PS,Shooter,1994,4
+PS,Shooter,1995,18
+PS,Shooter,1996,16
+PS,Shooter,1997,17
+PS,Shooter,1998,15
+PS,Shooter,1999,7
+PS,Shooter,2000,10
+PS,Shooter,2001,8
+PS,Shooter,2002,1
+PS,Misc,1995,4
+PS,Misc,1996,14
+PS,Misc,1997,6
+PS,Misc,1998,18
+PS,Misc,1999,14
+PS,Misc,2000,15
+PS,Misc,2001,3
+PS,Misc,2002,0
+PS,Misc,2003,2
+PS,Puzzle,1995,4
+PS,Puzzle,1996,3
+PS,Puzzle,1997,5
+PS,Puzzle,1998,10
+PS,Puzzle,1999,5
+PS,Puzzle,2000,3
+PS,Puzzle,2001,2
+PS,Role-Playing,1994,2
+PS,Role-Playing,1995,7
+PS,Role-Playing,1996,11
+PS,Role-Playing,1997,15
+PS,Role-Playing,1998,19
+PS,Role-Playing,1999,26
+PS,Role-Playing,2000,8
+PS,Role-Playing,2001,7
+PS,Role-Playing,2002,2
+PS,Racing,1994,2
+PS,Racing,1995,6
+PS,Racing,1996,17
+PS,Racing,1997,27
+PS,Racing,1998,32
+PS,Racing,1999,27
+PS,Racing,2000,21
+PS,Racing,2001,11
+PS,Racing,2002,1
+PS,Racing,N/A,1
+PS,Platform,1995,5
+PS,Platform,1996,9
+PS,Platform,1997,10
+PS,Platform,1998,14
+PS,Platform,1999,8
+PS,Platform,2000,10
+PS,Platform,2001,6
+PS,Platform,2002,2
+PS,Sports,1994,3
+PS,Sports,1995,16
+PS,Sports,1996,38
+PS,Sports,1997,31
+PS,Sports,1998,40
+PS,Sports,1999,31
+PS,Sports,2000,38
+PS,Sports,2001,20
+PS,Sports,2002,3
+PS,Sports,2003,1
+PS,Sports,N/A,1
+XB,Strategy ,2002,1
+XB,Strategy ,2003,8
+XB,Strategy ,2004,7
+XB,Strategy ,2005,4
+XB,Strategy ,2006,1
+XB,Adventure,2002,6
+XB,Adventure,2003,2
+XB,Adventure,2004,6
+XB,Adventure,2005,11
+XB,Adventure,2006,1
+XB,Fighting ,2001,1
+XB,Fighting ,2002,10
+XB,Fighting ,2003,10
+XB,Fighting ,2004,12
+XB,Fighting ,2005,8
+XB,Fighting ,2006,3
+XB,Fighting ,N/A,4
+XB,Action,2001,4
+XB,Action,2002,28
+XB,Action,2003,33
+XB,Action,2004,28
+XB,Action,2005,45
+XB,Action,2006,13
+XB,Action,2007,1
+XB,Action,N/A,3
+XB,Simulation,2001,1
+XB,Simulation,2002,4
+XB,Simulation,2003,6
+XB,Simulation,2004,7
+XB,Simulation,2005,5
+XB,Simulation,2006,1
+XB,Shooter,2001,4
+XB,Shooter,2002,18
+XB,Shooter,2003,28
+XB,Shooter,2004,27
+XB,Shooter,2005,37
+XB,Shooter,2006,10
+XB,Shooter,N/A,8
+XB,Misc,2001,2
+XB,Misc,2002,6
+XB,Misc,2003,6
+XB,Misc,2004,17
+XB,Misc,2005,13
+XB,Misc,2006,1
+XB,Misc,N/A,1
+XB,Puzzle,2002,3
+XB,Puzzle,2003,2
+XB,Puzzle,2004,2
+XB,Role-Playing,2002,4
+XB,Role-Playing,2003,6
+XB,Role-Playing,2004,8
+XB,Role-Playing,2005,5
+XB,Racing,2001,11
+XB,Racing,2002,25
+XB,Racing,2003,35
+XB,Racing,2004,24
+XB,Racing,2005,17
+XB,Racing,2006,10
+XB,Racing,N/A,1
+XB,Platform,2001,2
+XB,Platform,2002,8
+XB,Platform,2003,14
+XB,Platform,2004,11
+XB,Platform,2005,12
+XB,Platform,2006,2
+XB,Sports,2001,8
+XB,Sports,2002,45
+XB,Sports,2003,39
+XB,Sports,2004,28
+XB,Sports,2005,22
+XB,Sports,2006,20
+XB,Sports,2007,2
+XB,Sports,2008,1
+XB,Sports,N/A,4
+PC,Strategy ,1992,2
+PC,Strategy ,1993,0
+PC,Strategy ,1994,1
+PC,Strategy ,1995,1
+PC,Strategy ,1996,1
+PC,Strategy ,1997,2
+PC,Strategy ,1998,5
+PC,Strategy ,1999,2
+PC,Strategy ,2000,2
+PC,Strategy ,2001,7
+PC,Strategy ,2002,6
+PC,Strategy ,2003,10
+PC,Strategy ,2004,8
+PC,Strategy ,2005,8
+PC,Strategy ,2006,14
+PC,Strategy ,2007,16
+PC,Strategy ,2008,14
+PC,Strategy ,2009,24
+PC,Strategy ,2010,16
+PC,Strategy ,2011,20
+PC,Strategy ,2012,6
+PC,Strategy ,2013,3
+PC,Strategy ,2014,1
+PC,Strategy ,2015,8
+PC,Strategy ,2016,8
+PC,Strategy ,N/A,3
+PC,Adventure,1992,1
+PC,Adventure,1993,0
+PC,Adventure,1994,1
+PC,Adventure,1995,0
+PC,Adventure,1996,0
+PC,Adventure,1997,1
+PC,Adventure,1998,0
+PC,Adventure,1999,1
+PC,Adventure,2000,0
+PC,Adventure,2001,0
+PC,Adventure,2002,0
+PC,Adventure,2003,2
+PC,Adventure,2004,1
+PC,Adventure,2005,1
+PC,Adventure,2006,1
+PC,Adventure,2007,0
+PC,Adventure,2008,8
+PC,Adventure,2009,15
+PC,Adventure,2010,4
+PC,Adventure,2011,12
+PC,Adventure,2012,6
+PC,Adventure,2013,3
+PC,Adventure,2014,1
+PC,Adventure,2015,2
+PC,Adventure,2016,5
+PC,Fighting,1994,1
+PC,Fighting,1995,0
+PC,Fighting,1996,0
+PC,Fighting,1997,0
+PC,Fighting,1998,0
+PC,Fighting,1999,0
+PC,Fighting,2000,0
+PC,Fighting,2001,0
+PC,Fighting,2002,0
+PC,Fighting,2003,0
+PC,Fighting,2004,0
+PC,Fighting,2005,0
+PC,Fighting,2006,0
+PC,Fighting,2007,0
+PC,Fighting,2008,0
+PC,Fighting,2009,0
+PC,Fighting,2010,1
+PC,Fighting,2011,0
+PC,Fighting,2012,1
+PC,Fighting,2013,0
+PC,Fighting,2014,0
+PC,Fighting,2015,1
+PC,Fighting,2016,1
+PC,Fighting,N/A,1
+PC,Action,1996,1
+PC,Action,1997,1
+PC,Action,1998,2
+PC,Action,1999,2
+PC,Action,2000,0
+PC,Action,2001,1
+PC,Action,2002,4
+PC,Action,2003,2
+PC,Action,2004,1
+PC,Action,2005,4
+PC,Action,2006,6
+PC,Action,2007,5
+PC,Action,2008,15
+PC,Action,2009,18
+PC,Action,2010,16
+PC,Action,2011,22
+PC,Action,2012,16
+PC,Action,2013,11
+PC,Action,2014,16
+PC,Action,2015,16
+PC,Action,2016,7
+PC,Action,N/A,4
+PC,Simulation,1985,1
+PC,Simulation,1986,0
+PC,Simulation,1987,0
+PC,Simulation,1988,1
+PC,Simulation,1989,0
+PC,Simulation,1990,0
+PC,Simulation,1991,0
+PC,Simulation,1992,1
+PC,Simulation,1993,0
+PC,Simulation,1994,0
+PC,Simulation,1995,0
+PC,Simulation,1996,1
+PC,Simulation,1997,0
+PC,Simulation,1998,0
+PC,Simulation,1999,0
+PC,Simulation,2000,2
+PC,Simulation,2001,4
+PC,Simulation,2002,4
+PC,Simulation,2003,9
+PC,Simulation,2004,1
+PC,Simulation,2005,7
+PC,Simulation,2006,12
+PC,Simulation,2007,9
+PC,Simulation,2008,7
+PC,Simulation,2009,6
+PC,Simulation,2010,12
+PC,Simulation,2011,20
+PC,Simulation,2012,2
+PC,Simulation,2013,3
+PC,Simulation,2014,4
+PC,Simulation,2015,6
+PC,Simulation,2016,8
+PC,Shooter,1992,1
+PC,Shooter,1993,0
+PC,Shooter,1994,2
+PC,Shooter,1995,0
+PC,Shooter,1996,0
+PC,Shooter,1997,1
+PC,Shooter,1998,0
+PC,Shooter,1999,0
+PC,Shooter,2000,0
+PC,Shooter,2001,1
+PC,Shooter,2002,3
+PC,Shooter,2003,4
+PC,Shooter,2004,9
+PC,Shooter,2005,9
+PC,Shooter,2006,4
+PC,Shooter,2007,13
+PC,Shooter,2008,10
+PC,Shooter,2009,16
+PC,Shooter,2010,12
+PC,Shooter,2011,21
+PC,Shooter,2012,9
+PC,Shooter,2013,11
+PC,Shooter,2014,7
+PC,Shooter,2015,5
+PC,Shooter,2016,9
+PC,Shooter,N/A,3
+PC,Misc,1994,1
+PC,Misc,1995,1
+PC,Misc,1996,0
+PC,Misc,1997,0
+PC,Misc,1998,0
+PC,Misc,1999,1
+PC,Misc,2000,1
+PC,Misc,2001,0
+PC,Misc,2002,0
+PC,Misc,2003,0
+PC,Misc,2004,0
+PC,Misc,2005,0
+PC,Misc,2006,2
+PC,Misc,2007,1
+PC,Misc,2008,2
+PC,Misc,2009,2
+PC,Misc,2010,4
+PC,Misc,2011,2
+PC,Misc,2012,1
+PC,Misc,2013,1
+PC,Misc,2014,1
+PC,Misc,2015,2
+PC,Misc,N/A,2
+PC,Puzzle,2006,2
+PC,Puzzle,2007,2
+PC,Puzzle,2008,3
+PC,Puzzle,2009,3
+PC,Puzzle,2010,3
+PC,Puzzle,2011,10
+PC,Puzzle,2012,2
+PC,Role-Playing,1996,1
+PC,Role-Playing,1997,0
+PC,Role-Playing,1998,1
+PC,Role-Playing,1999,0
+PC,Role-Playing,2000,0
+PC,Role-Playing,2001,1
+PC,Role-Playing,2002,2
+PC,Role-Playing,2003,2
+PC,Role-Playing,2004,3
+PC,Role-Playing,2005,6
+PC,Role-Playing,2006,7
+PC,Role-Playing,2007,6
+PC,Role-Playing,2008,10
+PC,Role-Playing,2009,9
+PC,Role-Playing,2010,13
+PC,Role-Playing,2011,13
+PC,Role-Playing,2012,9
+PC,Role-Playing,2013,0
+PC,Role-Playing,2014,11
+PC,Role-Playing,2015,3
+PC,Role-Playing,2016,4
+PC,Role-Playing,N/A,1
+PC,Racing,1997,1
+PC,Racing,1998,0
+PC,Racing,1999,0
+PC,Racing,2000,0
+PC,Racing,2001,0
+PC,Racing,2002,0
+PC,Racing,2003,1
+PC,Racing,2004,4
+PC,Racing,2005,2
+PC,Racing,2006,2
+PC,Racing,2007,6
+PC,Racing,2008,3
+PC,Racing,2009,6
+PC,Racing,2010,4
+PC,Racing,2011,9
+PC,Racing,2012,4
+PC,Racing,2013,3
+PC,Racing,2014,4
+PC,Racing,2015,3
+PC,Racing,2016,6
+PC,Racing,N/A,3
+PC,Platform,2003,1
+PC,Platform,2004,0
+PC,Platform,2005,0
+PC,Platform,2006,0
+PC,Platform,2007,1
+PC,Platform,2008,1
+PC,Platform,2009,2
+PC,Platform,2010,0
+PC,Platform,2011,3
+PC,Platform,2012,1
+PC,Platform,2013,1
+PC,Platform,2014,0
+PC,Platform,2015,0
+PC,Platform,2016,1
+PC,Sports,1999,1
+PC,Sports,2000,0
+PC,Sports,2001,1
+PC,Sports,2002,9
+PC,Sports,2003,2
+PC,Sports,2004,3
+PC,Sports,2005,0
+PC,Sports,2006,2
+PC,Sports,2007,3
+PC,Sports,2008,3
+PC,Sports,2009,6
+PC,Sports,2010,5
+PC,Sports,2011,7
+PC,Sports,2012,4
+PC,Sports,2013,2
+PC,Sports,2014,2
+PC,Sports,2015,4
+PC,Sports,2016,5
+2600,Adventure,1983,1
+2600,Adventure,N/A,1
+2600,Fighting,1980,1
+2600,Fighting,N/A,1
+2600,Action,1980,1
+2600,Action,1981,25
+2600,Action,1982,18
+2600,Action,1983,7
+2600,Action,1984,0
+2600,Action,1985,0
+2600,Action,1986,0
+2600,Action,1987,2
+2600,Action,1988,1
+2600,Action,1989,1
+2600,Action,N/A,6
+2600,Simulation,1981,1
+2600,Shooter,1980,2
+2600,Shooter,1981,10
+2600,Shooter,1982,5
+2600,Shooter,1983,1
+2600,Shooter,1984,0
+2600,Shooter,1985,0
+2600,Shooter,1986,1
+2600,Shooter,1987,2
+2600,Shooter,1988,1
+2600,Shooter,N/A,2
+2600,Misc,1980,4
+2600,Misc,1981,0
+2600,Misc,1982,1
+2600,Puzzle,1981,2
+2600,Puzzle,1982,3
+2600,Puzzle,1983,1
+2600,Puzzle,1984,0
+2600,Puzzle,1985,1
+2600,Puzzle,1986,0
+2600,Puzzle,1987,0
+2600,Puzzle,1988,0
+2600,Puzzle,1989,1
+2600,Puzzle,N/A,3
+2600,Racing,1981,1
+2600,Racing,1982,2
+2600,Racing,1983,0
+2600,Racing,1984,1
+2600,Racing,N/A,2
+2600,Platform,1981,3
+2600,Platform,1982,5
+2600,Platform,1983,1
+2600,Sports,1980,1
+2600,Sports,1981,4
+2600,Sports,1982,2
+2600,Sports,1983,0
+2600,Sports,1984,0
+2600,Sports,1985,0
+2600,Sports,1986,1
+2600,Sports,1987,2
+2600,Sports,N/A,2
+PSP,Strategy ,2004,1
+PSP,Strategy ,2005,3
+PSP,Strategy ,2006,9
+PSP,Strategy ,2007,8
+PSP,Strategy ,2008,4
+PSP,Strategy ,2009,8
+PSP,Strategy ,2010,12
+PSP,Strategy ,2011,9
+PSP,Strategy ,2012,3
+PSP,Strategy ,2013,1
+PSP,Strategy ,N/A,2
+PSP,Adventure,2005,3
+PSP,Adventure,2006,11
+PSP,Adventure,2007,3
+PSP,Adventure,2008,10
+PSP,Adventure,2009,22
+PSP,Adventure,2010,64
+PSP,Adventure,2011,48
+PSP,Adventure,2012,19
+PSP,Adventure,2013,29
+PSP,Adventure,2014,4
+PSP,Fighting,2004,1
+PSP,Fighting,2005,4
+PSP,Fighting,2006,13
+PSP,Fighting,2007,12
+PSP,Fighting,2008,6
+PSP,Fighting,2009,16
+PSP,Fighting,2010,10
+PSP,Fighting,2011,7
+PSP,Fighting,2012,3
+PSP,Fighting,2013,1
+PSP,Fighting,N/A,1
+PSP,Action,2004,1
+PSP,Action,2005,9
+PSP,Action,2006,26
+PSP,Action,2007,28
+PSP,Action,2008,14
+PSP,Action,2009,34
+PSP,Action,2010,26
+PSP,Action,2011,16
+PSP,Action,2012,51
+PSP,Action,2013,6
+PSP,Action,2014,3
+PSP,Action,2015,3
+PSP,Action,N/A,5
+PSP,Simulation,2004,1
+PSP,Simulation,2005,2
+PSP,Simulation,2006,4
+PSP,Simulation,2007,2
+PSP,Simulation,2008,2
+PSP,Simulation,2009,10
+PSP,Simulation,2010,5
+PSP,Simulation,2011,1
+PSP,Simulation,2012,1
+PSP,Shooter,2005,5
+PSP,Shooter,2006,11
+PSP,Shooter,2007,12
+PSP,Shooter,2008,1
+PSP,Shooter,2009,4
+PSP,Shooter,2010,4
+PSP,Misc,2004,4
+PSP,Misc,2005,8
+PSP,Misc,2006,25
+PSP,Misc,2007,8
+PSP,Misc,2008,10
+PSP,Misc,2009,9
+PSP,Misc,2010,16
+PSP,Misc,2011,14
+PSP,Misc,2012,2
+PSP,Misc,2013,6
+PSP,Misc,2014,2
+PSP,Misc,N/A,2
+PSP,Puzzle,2004,4
+PSP,Puzzle,2005,9
+PSP,Puzzle,2006,15
+PSP,Puzzle,2007,10
+PSP,Puzzle,2008,4
+PSP,Puzzle,2009,1
+PSP,Puzzle,2010,1
+PSP,Role-Playing,2004,1
+PSP,Role-Playing,2005,11
+PSP,Role-Playing,2006,25
+PSP,Role-Playing,2007,18
+PSP,Role-Playing,2008,17
+PSP,Role-Playing,2009,28
+PSP,Role-Playing,2010,29
+PSP,Role-Playing,2011,33
+PSP,Role-Playing,2012,22
+PSP,Role-Playing,2013,7
+PSP,Role-Playing,N/A,1
+PSP,Racing,2004,1
+PSP,Racing,2005,12
+PSP,Racing,2006,18
+PSP,Racing,2007,13
+PSP,Racing,2008,7
+PSP,Racing,2009,8
+PSP,Racing,2010,3
+PSP,Racing,2011,1
+PSP,Platform,2005,7
+PSP,Platform,2006,9
+PSP,Platform,2007,7
+PSP,Platform,2008,6
+PSP,Platform,2009,4
+PSP,Platform,2010,3
+PSP,Sports,2004,1
+PSP,Sports,2005,22
+PSP,Sports,2006,23
+PSP,Sports,2007,18
+PSP,Sports,2008,13
+PSP,Sports,2009,17
+PSP,Sports,2010,15
+PSP,Sports,2011,10
+PSP,Sports,2012,5
+PSP,Sports,2013,4
+PSP,Sports,2014,1
+PSP,Sports,N/A,5
+XOne,Strategy ,2013,1
+XOne,Strategy ,2014,0
+XOne,Strategy ,2015,1
+XOne,Strategy ,2016,1
+XOne,Adventure,2014,5
+XOne,Adventure,2015,6
+XOne,Adventure,2016,3
+XOne,Fighting,2013,2
+XOne,Fighting,2014,0
+XOne,Fighting,2015,3
+XOne,Fighting,2016,2
+XOne,Action,2013,4
+XOne,Action,2014,21
+XOne,Action,2015,27
+XOne,Action,2016,33
+XOne,Simulation,2013,1
+XOne,Simulation,2014,0
+XOne,Simulation,2015,1
+XOne,Simulation,2016,2
+XOne,Shooter,2013,2
+XOne,Shooter,2014,10
+XOne,Shooter,2015,11
+XOne,Shooter,2016,15
+XOne,Misc,2013,2
+XOne,Misc,2014,8
+XOne,Misc,2015,5
+XOne,Misc,2016,4
+XOne,Role-Playing,2014,3
+XOne,Role-Playing,2015,7
+XOne,Role-Playing,2016,4
+XOne,Racing,2013,2
+XOne,Racing,2014,3
+XOne,Racing,2015,6
+XOne,Racing,2016,9
+XOne,Platform,2013,1
+XOne,Platform,2014,1
+XOne,Platform,2015,0
+XOne,Platform,2016,3
+XOne,Sports,2013,4
+XOne,Sports,2014,10
+XOne,Sports,2015,13
+XOne,Sports,2016,11
+WiiU,Strategy ,2012,1
+WiiU,Strategy ,2013,2
+WiiU,Adventure,2014,2
+WiiU,Adventure,2015,0
+WiiU,Adventure,2016,1
+WiiU,Fighting,2012,1
+WiiU,Fighting,2013,2
+WiiU,Fighting,2014,1
+WiiU,Fighting,2015,0
+WiiU,Fighting,2016,1
+WiiU,Action,2012,16
+WiiU,Action,2013,13
+WiiU,Action,2014,18
+WiiU,Action,2015,11
+WiiU,Action,2016,6
+WiiU,Simulation,2013,1
+WiiU,Shooter ,2012,2
+WiiU,Shooter ,2013,5
+WiiU,Shooter ,2014,1
+WiiU,Shooter ,2015,1
+WiiU,Shooter ,2016,1
+WiiU,Misc,2012,4
+WiiU,Misc,2013,5
+WiiU,Misc,2014,4
+WiiU,Misc,2015,7
+WiiU,Misc,2016,2
+WiiU,Puzzle,2013,1
+WiiU,Puzzle,2014,2
+WiiU,Puzzle,2015,1
+WiiU,Role-Playing,2012,2
+WiiU,Role-Playing,2013,1
+WiiU,Role-Playing,2014,0
+WiiU,Role-Playing,2015,3
+WiiU,Role-Playing,2016,1
+WiiU,Racing,2012,1
+WiiU,Racing,2013,1
+WiiU,Racing,2014,1
+WiiU,Platform,2012,2
+WiiU,Platform,2013,8
+WiiU,Platform,2014,1
+WiiU,Platform,2015,4
+WiiU,Platform,2016,2
+WiiU,Sports,2012,3
+WiiU,Sports,2013,3
+WiiU,Sports,2014,1
+WiiU,Sports,2015,1
+GC,Strategy ,2001,1
+GC,Strategy ,2002,1
+GC,Strategy ,2003,3
+GC,Strategy ,2004,4
+GC,Strategy ,2005,2
+GC,Adventure,2001,1
+GC,Adventure,2002,6
+GC,Adventure,2003,2
+GC,Adventure,2004,2
+GC,Adventure,2005,6
+GC,Adventure,2006,3
+GC,Fighting,2001,1
+GC,Fighting,2002,13
+GC,Fighting,2003,10
+GC,Fighting,2004,5
+GC,Fighting,2005,11
+GC,Fighting,2006,2
+GC,Action,2001,1
+GC,Action,2002,16
+GC,Action,2003,29
+GC,Action,2004,17
+GC,Action,2005,22
+GC,Action,2006,11
+GC,Action,2007,2
+GC,Action,N/A,3
+GC,Simulation,2001,2
+GC,Simulation,2002,2
+GC,Simulation,2003,3
+GC,Simulation,2004,1
+GC,Simulation,2005,3
+GC,Simulation,2006,1
+GC,Shooter,2002,14
+GC,Shooter,2003,14
+GC,Shooter,2004,12
+GC,Shooter,2005,7
+GC,Shooter,2006,1
+GC,Misc,2001,1
+GC,Misc,2002,9
+GC,Misc,2003,8
+GC,Misc,2004,5
+GC,Misc,2005,10
+GC,Misc,2006,2
+GC,Misc,N/A,1
+GC,Puzzle,2001,1
+GC,Puzzle,2002,6
+GC,Puzzle,2003,3
+GC,Puzzle,2004,1
+GC,Puzzle,2005,1
+GC,Puzzle,N/A,1
+GC,Role-Playing,2002,5
+GC,Role-Playing,2003,10
+GC,Role-Playing,2004,6
+GC,Role-Playing,2005,3
+GC,Role-Playing,2006,1
+GC,Role-Playing,N/A,2
+GC,Racing,2001,4
+GC,Racing,2002,20
+GC,Racing,2003,24
+GC,Racing,2004,4
+GC,Racing,2005,3
+GC,Racing,2006,5
+GC,Racing,N/A,3
+GC,Platform,2001,2
+GC,Platform,2002,19
+GC,Platform,2003,20
+GC,Platform,2004,12
+GC,Platform,2005,12
+GC,Platform,2006,8
+GC,Sports,2001,8
+GC,Sports,2002,41
+GC,Sports,2003,18
+GC,Sports,2004,14
+GC,Sports,2005,17
+GC,Sports,2006,6
+GC,Sports,2007,2
+GC,Sports,N/A,4
+GEN,Strategy ,1993,1
+GEN,Adventure,1992,1
+GEN,Adventure,1993,1
+GEN,Fighting,1992,2
+GEN,Fighting,1993,1
+GEN,Fighting,1994,2
+GEN,Action,1990,1
+GEN,Action,1991,0
+GEN,Action,1992,0
+GEN,Action,1993,2
+GEN,Shooter,1992,1
+GEN,Misc,1994,1
+GEN,Role-Playing,1993,1
+GEN,Role-Playing,1994,2
+GEN,Racing,1994,1
+GEN,Platform,1991,1
+GEN,Platform,1992,1
+GEN,Platform,1993,1
+GEN,Platform,1994,4
+GEN,Sports,1992,1
+GEN,Sports,1993,0
+GEN,Sports,1994,2
+DC,Adventure,1998,1
+DC,Adventure,1999,2
+DC,Adventure,2000,4
+DC,Adventure,2001,2
+DC,Adventure,2002,0
+DC,Adventure,2003,0
+DC,Adventure,2004,0
+DC,Adventure,2005,0
+DC,Adventure,2006,0
+DC,Adventure,2007,0
+DC,Adventure,2008,1
+DC,Fighting,1998,2
+DC,Fighting,1999,3
+DC,Fighting,2000,5
+DC,Fighting,2001,2
+DC,Action,1998,1
+DC,Action,1999,0
+DC,Action,2000,1
+DC,Action,2001,1
+DC,Simulation,1999,1
+DC,Shooter,1998,1
+DC,Shooter,1999,0
+DC,Shooter,2000,1
+DC,Shooter,2001,0
+DC,Shooter,2002,0
+DC,Shooter,2003,0
+DC,Shooter,2004,0
+DC,Shooter,2005,0
+DC,Shooter,2006,0
+DC,Shooter,2007,1
+DC,Role-Playing,2000,3
+DC,Role-Playing,2001,1
+DC,Racing,1998,1
+DC,Racing,1999,2
+DC,Racing,2000,2
+DC,Racing,2001,1
+DC,Platform,1998,1
+DC,Platform,1999,0
+DC,Platform,2000,0
+DC,Platform,2001,1
+DC,Sports,1999,6
+DC,Sports,2000,4
+PSV,Strategy ,2013,3
+PSV,Strategy ,2014,1
+PSV,Strategy ,2015,2
+PSV,Strategy ,2016,1
+PSV,Adventure,2011,1
+PSV,Adventure,2012,6
+PSV,Adventure,2013,12
+PSV,Adventure,2014,28
+PSV,Adventure,2015,21
+PSV,Adventure,2016,25
+PSV,Fighting,2011,2
+PSV,Fighting,2012,4
+PSV,Fighting,2013,3
+PSV,Fighting,2014,5
+PSV,Fighting,2015,0
+PSV,Fighting,2016,2
+PSV,Action,2011,4
+PSV,Action,2012,20
+PSV,Action,2013,14
+PSV,Action,2014,22
+PSV,Action,2015,54
+PSV,Action,2016,35
+PSV,Action,2017,1
+PSV,Simulation,2011,1
+PSV,Simulation,2012,0
+PSV,Simulation,2013,0
+PSV,Simulation,2014,1
+PSV,Simulation,2015,1
+PSV,Simulation,2016,1
+PSV,Shooter,2011,1
+PSV,Shooter,2012,2
+PSV,Shooter,2013,1
+PSV,Shooter,2014,1
+PSV,Misc,2011,2
+PSV,Misc,2012,3
+PSV,Misc,2013,2
+PSV,Misc,2014,9
+PSV,Misc,2015,5
+PSV,Misc,2016,3
+PSV,Puzzle,2011,1
+PSV,Puzzle,2012,0
+PSV,Puzzle,2013,0
+PSV,Puzzle,2014,1
+PSV,Puzzle,2015,0
+PSV,Puzzle,2016,1
+PSV,Role-Playing,2011,1
+PSV,Role-Playing,2012,6
+PSV,Role-Playing,2013,19
+PSV,Role-Playing,2014,24
+PSV,Role-Playing,2015,20
+PSV,Role-Playing,2016,15
+PSV,Role-Playing,2017,1
+PSV,Role-Playing,N/A,1
+PSV,Racing,2011,2
+PSV,Racing,2012,6
+PSV,Racing,2013,0
+PSV,Racing,2014,2
+PSV,Racing,2015,1
+PSV,Platform,2011,1
+PSV,Platform,2012,2
+PSV,Platform,2013,2
+PSV,Platform,2014,2
+PSV,Platform,2015,2
+PSV,Sports,2011,2
+PSV,Sports,2012,4
+PSV,Sports,2013,7
+PSV,Sports,2014,4
+PSV,Sports,2015,4
+PSV,Sports,2016,2
+SAT,Strategy ,1995,3
+SAT,Strategy ,1996,3
+SAT,Strategy ,1997,5
+SAT,Strategy ,1998,7
+SAT,Adventure,1994,1
+SAT,Adventure,1995,4
+SAT,Adventure,1996,8
+SAT,Adventure,1997,4
+SAT,Adventure,1998,9
+SAT,Fighting,1994,5
+SAT,Fighting,1995,11
+SAT,Fighting,1996,8
+SAT,Fighting,1997,4
+SAT,Fighting,1998,3
+SAT,Action,1995,1
+SAT,Action,1996,0
+SAT,Action,1997,2
+SAT,Simulation,1994,2
+SAT,Simulation,1995,2
+SAT,Simulation,1996,2
+SAT,Simulation,1997,0
+SAT,Simulation,1998,1
+SAT,Shooter,1994,3
+SAT,Shooter,1995,9
+SAT,Shooter,1996,5
+SAT,Shooter,1997,4
+SAT,Shooter,1998,1
+SAT,Misc,1995,11
+SAT,Misc,1996,2
+SAT,Misc,1997,2
+SAT,Puzzle,1995,1
+SAT,Puzzle,1996,2
+SAT,Puzzle,1997,2
+SAT,Role-Playing,1995,4
+SAT,Role-Playing,1996,3
+SAT,Role-Playing,1997,7
+SAT,Role-Playing,1998,3
+SAT,Racing,1994,3
+SAT,Racing,1995,4
+SAT,Racing,1996,1
+SAT,Platform,1994,1
+SAT,Platform,1995,0
+SAT,Platform,1996,1
+SAT,Platform,1997,2
+SAT,Platform,1998,1
+SAT,Sports,1994,4
+SAT,Sports,1995,2
+SAT,Sports,1996,3
+SAT,Sports,1997,2
+SAT,Sports,1998,4
+SAT,Sports,1999,1
+SCD,Strategy ,1994,1
+SCD,Misc,1994,2
+SCD,Role-Playing,1994,1
+SCD,Racing,1994,1
+SCD,Platform,1993,1
+WS,Strategy ,2000,1
+WS,Strategy ,2001,1
+WS,Role-Playing,1999,2
+WS,Role-Playing,2000,1
+WS,Role-Playing,2001,1
+NG,Fighting,1993,2
+NG,Fighting,1994,4
+NG,Fighting,1995,3
+NG,Fighting,1996,2
+NG,Sports,1995,1
+TG16,Adventure,1995,1
+TG16,Shooter,1995,1
+3DO,Adventure,1995,1
+3DO,Simulation,1995,1
+3DO,Puzzle,1994,1
+GG,Platform,1992,1
+PCFX,Role-Playing,1996,1
