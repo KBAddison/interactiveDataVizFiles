@@ -1,0 +1,880 @@
+﻿PlatformGenre,Continent,SumSales
+WiiStrategy ,North America,2.32
+WiiStrategy ,Europe,0.71
+WiiStrategy ,Asia,1.74
+WiiAdventure,North America,10.86
+WiiAdventure,Europe,4.37
+WiiAdventure,Asia,1.17
+WiiFighting,North America,12.83
+WiiFighting,Europe,5.01
+WiiFighting,Asia,3.67
+WiiAction,North America,68.07
+WiiAction,Europe,31.54
+WiiAction,Asia,4.92
+WiiSimulation,North America,23.3
+WiiSimulation,Europe,7.59
+WiiSimulation,Asia,1.98
+WiiShooter,North America,18.22
+WiiShooter,Europe,6.7
+WiiShooter,Asia,0.64
+WiiMisc,North America,118.82
+WiiMisc,Europe,63.93
+WiiMisc,Asia,14.48
+WiiPuzzle,North America,9.1
+WiiPuzzle,Europe,3.54
+WiiPuzzle,Asia,1.5
+WiiRole-Playing,North America,5.48
+WiiRole-Playing,Europe,1.88
+WiiRole-Playing,Asia,5.63
+WiiRacing,North America,30.95
+WiiRacing,Europe,19.66
+WiiRacing,Asia,4.11
+WiiPlatform,North America,47.23
+WiiPlatform,Europe,23.5
+WiiPlatform,Asia,11.24
+WiiSports,North America,149.72
+WiiSports,Europe,93.78
+WiiSports,Asia,18.25
+NESAdventure,North America,2.19
+NESAdventure,Europe,0.5
+NESAdventure,Asia,1.61
+NESFighting,North America,2.84
+NESFighting,Europe,0.66
+NESFighting,Asia,2.94
+NESAction,North America,16.31
+NESAction,Europe,3.34
+NESAction,Asia,8.65
+NESShooter,North America,29.03
+NESShooter,Europe,1.13
+NESShooter,Asia,4.94
+NESMisc,North America,0.01
+NESMisc,Europe,0
+NESMisc,Asia,3.58
+NESPuzzle,North America,9.14
+NESPuzzle,Europe,1.98
+NESPuzzle,Asia,9.44
+NESRole-Playing,North America,1.14
+NESRole-Playing,Europe,0
+NESRole-Playing,Asia,16.11
+NESRacing,North America,4.64
+NESRacing,Europe,1.23
+NESRacing,Asia,3.69
+NESPlatform,North America,53.64
+NESPlatform,Europe,10.19
+NESPlatform,Asia,30.26
+NESSports,North America,7
+NESSports,Europe,2.12
+NESSports,Asia,17.43
+GBStrategy ,North America,1.49
+GBStrategy ,Europe,0.73
+GBStrategy ,Asia,5.73
+GBAdventure,North America,8.88
+GBAdventure,Europe,3.5
+GBAdventure,Asia,4.25
+GBAction,North America,4.07
+GBAction,Europe,2.11
+GBAction,Asia,1.49
+GBSimulation,North America,0
+GBSimulation,Europe,0
+GBSimulation,Asia,3.53
+GBShooter,North America,0.4
+GBShooter,Europe,0.39
+GBShooter,Asia,0.36
+GBMisc,North America,6.07
+GBMisc,Europe,2.15
+GBMisc,Asia,4.81
+GBPuzzle,North America,29.35
+GBPuzzle,Europe,5.03
+GBPuzzle,Asia,12.08
+GBRole-Playing,North America,28.71
+GBRole-Playing,Europe,21.67
+GBRole-Playing,Asia,34.55
+GBRacing,North America,2.31
+GBRacing,Europe,1.06
+GBRacing,Asia,0.74
+GBPlatform,North America,29.4
+GBPlatform,Europe,9.72
+GBPlatform,Asia,13.84
+GBSports,North America,3.64
+GBSports,Europe,1.46
+GBSports,Asia,3.74
+DSStrategy ,North America,8.67
+DSStrategy ,Europe,2.36
+DSStrategy ,Asia,2.83
+DSAdventure,North America,24.77
+DSAdventure,Europe,9.99
+DSAdventure,Asia,7.87
+DSFighting ,North America,2.49
+DSFighting ,Europe,0.29
+DSFighting ,Asia,4.09
+DSAction,North America,65
+DSAction,Europe,25.91
+DSAction,Asia,12.74
+DSSimulation,North America,67.69
+DSSimulation,Europe,35.81
+DSSimulation,Asia,15.51
+DSShooter,North America,6.46
+DSShooter,Europe,0.51
+DSShooter,Asia,0.34
+DSMisc,North America,53.83
+DSMisc,Europe,34.96
+DSMisc,Asia,37.33
+DSPuzzle,North America,34.69
+DSPuzzle,Europe,25.6
+DSPuzzle,Asia,15.89
+DSRole-Playing,North America,46.14
+DSRole-Playing,Europe,17.47
+DSRole-Playing,Asia,54.55
+DSRacing,North America,20.54
+DSRacing,Europe,9.81
+DSRacing,Asia,4.57
+DSPlatform,North America,36.91
+DSPlatform,Europe,18.39
+DSPlatform,Asia,14.15
+DSSports,North America,15.48
+DSSports,Europe,7.79
+DSSports,Asia,5.7
+X360Strategy ,North America,6.5
+X360Strategy ,Europe,2.53
+X360Strategy ,Asia,0.13
+X360Adventure,North America,8.44
+X360Adventure,Europe,4.54
+X360Adventure,Asia,0.61
+X360Fighting ,North America,24.61
+X360Fighting ,Europe,8.57
+X360Fighting ,Asia,0.96
+X360Action,North America,141.66
+X360Action,Europe,73.63
+X360Action,Asia,2.77
+X360Simulation,North America,8.51
+X360Simulation,Europe,3.77
+X360Simulation,Asia,0.7
+X360Shooter,North America,174.51
+X360Shooter,Europe,74.58
+X360Shooter,Asia,3.1
+X360Misc,North America,63.66
+X360Misc,Europe,19.79
+X360Misc,Asia,0.45
+X360Puzzle,North America,0.62
+X360Puzzle,Europe,0.04
+X360Puzzle,Asia,0.15
+X360Role-Playing,North America,44.75
+X360Role-Playing,Europe,17.87
+X360Role-Playing,Asia,2.61
+X360Racing,North America,33.1
+X360Racing,Europe,25.03
+X360Racing,Asia,0.52
+X360Platform,North America,6.09
+X360Platform,Europe,4.06
+X360Platform,Asia,0.02
+X360Sports,North America,90.02
+X360Sports,Europe,36.35
+X360Sports,Asia,0.41
+PS3Strategy ,North America,1.88
+PS3Strategy ,Europe,1.25
+PS3Strategy ,Asia,1.16
+PS3Adventure,North America,8.79
+PS3Adventure,Europe,7.71
+PS3Adventure,Asia,2.68
+PS3Fighting ,North America,23.88
+PS3Fighting ,Europe,14.11
+PS3Fighting ,Asia,6.56
+PS3Action,North America,121.47
+PS3Action,Europe,105.95
+PS3Action,Asia,29.65
+PS3Simulation,North America,4.3
+PS3Simulation,Europe,3.52
+PS3Simulation,Asia,1.27
+PS3Shooter,North America,82.03
+PS3Shooter,Europe,72.64
+PS3Shooter,Asia,8.81
+PS3Misc,North America,22.68
+PS3Misc,Europe,16.16
+PS3Misc,Asia,1.41
+PS3Puzzle,North America,0.39
+PS3Puzzle,Europe,0.04
+PS3Puzzle,Asia,0.1
+PS3Role-Playing,North America,29.93
+PS3Role-Playing,Europe,18.44
+PS3Role-Playing,Asia,16.85
+PS3Racing,North America,23.89
+PS3Racing,Europe,32.87
+PS3Racing,Asia,3.13
+PS3Platform,North America,13.34
+PS3Platform,Europe,10.96
+PS3Platform,Asia,0.61
+PS3Sports,North America,60.91
+PS3Sports,Europe,46.64
+PS3Sports,Asia,7.96
+PS2Strategy ,North America,3.57
+PS2Strategy ,Europe,2.38
+PS2Strategy ,Asia,8.28
+PS2Adventure,North America,6.71
+PS2Adventure,Europe,5.09
+PS2Adventure,Asia,7.43
+PS2Fighting,North America,44.98
+PS2Fighting,Europe,23.51
+PS2Fighting,Asia,11.65
+PS2Action,North America,127.82
+PS2Action,Europe,71.44
+PS2Action,Asia,25.81
+PS2Simulation,North America,19.37
+PS2Simulation,Europe,12.25
+PS2Simulation,Asia,6.57
+PS2Shooter,North America,57.53
+PS2Shooter,Europe,33.7
+PS2Shooter,Asia,3.84
+PS2Misc,North America,40.73
+PS2Misc,Europe,29.91
+PS2Misc,Asia,8.03
+PS2Puzzle,North America,2.84
+PS2Puzzle,Europe,1.93
+PS2Puzzle,Asia,0.45
+PS2Role-Playing,North America,32.85
+PS2Role-Playing,Europe,18.42
+PS2Role-Playing,Asia,34.01
+PS2Racing,North America,75.72
+PS2Racing,Europe,47.38
+PS2Racing,Asia,5.92
+PS2Platform,North America,37.6
+PS2Platform,Europe,23.32
+PS2Platform,Asia,2.47
+PS2Sports,North America,134.12
+PS2Sports,Europe,69.96
+PS2Sports,Asia,24.74
+SNESStrategy ,North America,0.3
+SNESStrategy ,Europe,0
+SNESStrategy ,Asia,4.68
+SNESAdventure,North America,0
+SNESAdventure,Europe,0
+SNESAdventure,Asia,1.5
+SNESFighting,North America,9.34
+SNESFighting,Europe,2.9
+SNESFighting,Asia,14.27
+SNESAction,North America,4.09
+SNESAction,Europe,1.33
+SNESAction,Asia,4.46
+SNESSimulation,North America,1.39
+SNESSimulation,Europe,0.44
+SNESSimulation,Asia,3.74
+SNESShooter,North America,2.67
+SNESShooter,Europe,0.89
+SNESShooter,Asia,2.38
+SNESMisc,North America,1.43
+SNESMisc,Europe,0.54
+SNESMisc,Asia,2.98
+SNESPuzzle,North America,0
+SNESPuzzle,Europe,0
+SNESPuzzle,Asia,6.37
+SNESRole-Playing,North America,2.29
+SNESRole-Playing,Europe,0.16
+SNESRole-Playing,Asia,33.76
+SNESRacing,North America,4.91
+SNESRacing,Europe,1.75
+SNESRacing,Asia,6.58
+SNESPlatform,North America,32.71
+SNESPlatform,Europe,10.74
+SNESPlatform,Asia,20.42
+SNESSports,North America,2.1
+SNESSports,Europe,0.29
+SNESSports,Asia,15.41
+GBAStrategy ,North America,4.21
+GBAStrategy ,Europe,1.31
+GBAStrategy ,Asia,1.78
+GBAAdventure,North America,9.21
+GBAAdventure,Europe,3.52
+GBAAdventure,Asia,1.57
+GBAFighting,North America,2.9
+GBAFighting,Europe,1.07
+GBAFighting,Asia,0.14
+GBAAction,North America,37.13
+GBAAction,Europe,14.7
+GBAAction,Asia,2.47
+GBASimulation,North America,3.61
+GBASimulation,Europe,1.43
+GBASimulation,Asia,0.74
+GBAShooter,North America,2.35
+GBAShooter,Europe,0.87
+GBAShooter,Asia,0.32
+GBAMisc,North America,24.64
+GBAMisc,Europe,9.23
+GBAMisc,Asia,1.69
+GBAPuzzle,North America,7.36
+GBAPuzzle,Europe,2.57
+GBAPuzzle,Asia,2.64
+GBARole-Playing,North America,28.29
+GBARole-Playing,Europe,12.87
+GBARole-Playing,Asia,21.21
+GBARacing,North America,11.73
+GBARacing,Europe,5.04
+GBARacing,Asia,1.5
+GBAPlatform,North America,45.81
+GBAPlatform,Europe,18.85
+GBAPlatform,Asia,11.28
+GBASports,North America,10.3
+GBASports,Europe,3.79
+GBASports,Asia,1.99
+PS4Strategy ,North America,0.17
+PS4Strategy ,Europe,0.21
+PS4Strategy ,Asia,0.16
+PS4Adventure,North America,1.95
+PS4Adventure,Europe,3
+PS4Adventure,Asia,0.45
+PS4Fighting ,North America,3.6
+PS4Fighting ,Europe,2.97
+PS4Fighting ,Asia,0.75
+PS4Action,North America,32.83
+PS4Action,Europe,42.71
+PS4Action,Asia,5.9
+PS4Simulation,North America,0.21
+PS4Simulation,Europe,0.68
+PS4Simulation,Asia,0.18
+PS4Shooter,North America,32.66
+PS4Shooter,Europe,39.16
+PS4Shooter,Asia,2.81
+PS4Misc,North America,3.14
+PS4Misc,Europe,3.35
+PS4Misc,Asia,0.42
+PS4Puzzle,North America,0
+PS4Puzzle,Europe,0.02
+PS4Puzzle,Asia,0
+PS4Role-Playing,North America,9.34
+PS4Role-Playing,Europe,11.96
+PS4Role-Playing,Asia,3.59
+PS4Racing,North America,2.61
+PS4Racing,Europe,7.45
+PS4Racing,Asia,0.26
+PS4Platform,North America,2.45
+PS4Platform,Europe,3.6
+PS4Platform,Asia,0.49
+PS4Sports,North America,19.78
+PS4Sports,Europe,25.98
+PS4Sports,Asia,0.99
+3DSStrategy ,North America,0.78
+3DSStrategy ,Europe,0.35
+3DSStrategy ,Asia,0.85
+3DSAdventure,North America,1.18
+3DSAdventure,Europe,0.79
+3DSAdventure,Asia,2.76
+3DSFighting ,North America,4.46
+3DSFighting ,Europe,2.21
+3DSFighting ,Asia,3.22
+3DSAction,North America,19.8
+3DSAction,Europe,12.85
+3DSAction,Asia,22.66
+3DSSimulation,North America,7.58
+3DSSimulation,Europe,8.12
+3DSSimulation,Asia,10.39
+3DSShooter,North America,0.66
+3DSShooter,Europe,0.35
+3DSShooter,Asia,0.2
+3DSMisc,North America,2.69
+3DSMisc,Europe,2.38
+3DSMisc,Asia,5.51
+3DSPuzzle,North America,1.3
+3DSPuzzle,Europe,2.15
+3DSPuzzle,Asia,1.8
+3DSRole-Playing,North America,23.76
+3DSRole-Playing,Europe,14.91
+3DSRole-Playing,Asia,41.99
+3DSRacing,North America,6.35
+3DSRacing,Europe,4.69
+3DSRacing,Asia,2.83
+3DSPlatform,North America,13.27
+3DSPlatform,Europe,10.51
+3DSPlatform,Asia,6.48
+3DSSports,North America,1.66
+3DSSports,Europe,2.17
+3DSSports,Asia,1.98
+N64Strategy ,North America,4.64
+N64Strategy ,Europe,1.7
+N64Strategy ,Asia,3.68
+N64Adventure,North America,0.23
+N64Adventure,Europe,0.05
+N64Adventure,Asia,0.17
+N64Fighting ,North America,15.66
+N64Fighting ,Europe,3.7
+N64Fighting ,Asia,2.45
+N64Action,North America,18.96
+N64Action,Europe,6.35
+N64Action,Asia,3.67
+N64Simulation,North America,5.77
+N64Simulation,Europe,1.57
+N64Simulation,Asia,2.51
+N64Shooter,North America,13.96
+N64Shooter,Europe,4.02
+N64Shooter,Asia,1.02
+N64Misc,North America,6.27
+N64Misc,Europe,1.44
+N64Misc,Asia,3.36
+N64Puzzle,North America,2.21
+N64Puzzle,Europe,0.57
+N64Puzzle,Asia,0.54
+N64Role-Playing,North America,1.34
+N64Role-Playing,Europe,0.35
+N64Role-Playing,Asia,1.5
+N64Racing ,North America,26.68
+N64Racing ,Europe,8.29
+N64Racing ,Asia,4.46
+N64Platform,North America,21.23
+N64Platform,Europe,7.59
+N64Platform,Asia,6.31
+N64Sports,North America,22.07
+N64Sports,Europe,5.43
+N64Sports,Asia,4.55
+PSStrategy ,North America,6.65
+PSStrategy ,Europe,5.19
+PSStrategy ,Asia,8.49
+PSAdventure,North America,8.51
+PSAdventure,Europe,7.72
+PSAdventure,Asia,3.45
+PSFighting ,North America,34.09
+PSFighting ,Europe,20.88
+PSFighting ,Asia,13.9
+PSAction,North America,62.88
+PSAction,Europe,45.13
+PSAction,Asia,11.46
+PSSimulation,North America,6.79
+PSSimulation,Europe,4.34
+PSSimulation,Asia,12.64
+PSShooter,North America,21.16
+PSShooter,Europe,13.57
+PSShooter,Asia,2.38
+PSMisc,North America,20.76
+PSMisc,Europe,13.52
+PSMisc,Asia,8.31
+PSPuzzle,North America,5.29
+PSPuzzle,Europe,2.37
+PSPuzzle,Asia,3.8
+PSRole-Playing,North America,20.73
+PSRole-Playing,Europe,12.42
+PSRole-Playing,Asia,40.95
+PSRacing,North America,51.43
+PSRacing,Europe,35.08
+PSRacing,Asia,10.89
+PSPlatform,North America,34.21
+PSPlatform,Europe,21.64
+PSPlatform,Asia,5.12
+PSSports,North America,64.02
+PSSports,Europe,31.75
+PSSports,Asia,18.43
+XBStrategy ,North America,2.05
+XBStrategy ,Europe,0.61
+XBStrategy ,Asia,0
+XBAdventure,North America,2.22
+XBAdventure,Europe,0.73
+XBAdventure,Asia,0
+XBFighting ,North America,10.01
+XBFighting ,Europe,2.74
+XBFighting ,Asia,0.36
+XBAction,North America,34.34
+XBAction,Europe,12.81
+XBAction,Asia,0.33
+XBSimulation,North America,5.43
+XBSimulation,Europe,1.43
+XBSimulation,Asia,0.03
+XBShooter,North America,46.16
+XBShooter,Europe,15.25
+XBShooter,Asia,0.24
+XBMisc,North America,7.19
+XBMisc,Europe,1.99
+XBMisc,Asia,0
+XBPuzzle,North America,0.32
+XBPuzzle,Europe,0.08
+XBPuzzle,Asia,0
+XBRole-Playing,North America,9.89
+XBRole-Playing,Europe,3.04
+XBRole-Playing,Asia,0.08
+XBRacing,North America,21.48
+XBRacing,Europe,8.67
+XBRacing,Asia,0.17
+XBPlatform,North America,6.58
+XBPlatform,Europe,2.7
+XBPlatform,Asia,0.01
+XBSports,North America,41.02
+XBSports,Europe,10.9
+XBSports,Asia,0.16
+PCStrategy ,North America,19.63
+PCStrategy ,Europe,22.57
+PCStrategy ,Asia,0
+PCAdventure,North America,1.76
+PCAdventure,Europe,7.71
+PCAdventure,Asia,0
+PCFighting,North America,0.1
+PCFighting,Europe,0.17
+PCFighting,Asia,0
+PCAction,North America,10.15
+PCAction,Europe,18.31
+PCAction,Asia,0
+PCSimulation,North America,20.08
+PCSimulation,Europe,28.41
+PCSimulation,Asia,0
+PCShooter,North America,18.81
+PCShooter,Europe,22.84
+PCShooter,Asia,0.17
+PCMisc,North America,5.69
+PCMisc,Europe,2.53
+PCMisc,Asia,0
+PCPuzzle,North America,0.09
+PCPuzzle,Europe,0.68
+PCPuzzle,Asia,0
+PCRole-Playing,North America,17.35
+PCRole-Playing,Europe,25.64
+PCRole-Playing,Asia,0
+PCRacing,North America,0.44
+PCRacing,Europe,3.07
+PCRacing,Asia,0
+PCPlatform,North America,0.05
+PCPlatform,Europe,0.35
+PCPlatform,Asia,0
+PCSports,North America,0.38
+PCSports,Europe,10.16
+PCSports,Asia,0
+2600Adventure,North America,1.59
+2600Adventure,Europe,0.1
+2600Adventure,Asia,0
+2600Fighting,North America,1.16
+2600Fighting,Europe,0.07
+2600Fighting,Asia,0
+2600Action,North America,27.39
+2600Action,Europe,1.64
+2600Action,Asia,0
+2600Simulation,North America,0.42
+2600Simulation,Europe,0.02
+2600Simulation,Asia,0
+2600Shooter,North America,24.68
+2600Shooter,Europe,1.51
+2600Shooter,Asia,0
+2600Misc,North America,3.34
+2600Misc,Europe,0.2
+2600Misc,Asia,0
+2600Puzzle,North America,13.68
+2600Puzzle,Europe,0.86
+2600Puzzle,Asia,0
+2600Racing,North America,2.74
+2600Racing,Europe,0.16
+2600Racing,Asia,0
+2600Platform,North America,12.38
+2600Platform,Europe,0.72
+2600Platform,Asia,0
+2600Sports,North America,3.22
+2600Sports,Europe,0.19
+2600Sports,Asia,0
+PSPStrategy ,North America,2.67
+PSPStrategy ,Europe,2.15
+PSPStrategy ,Asia,4.47
+PSPAdventure,North America,1.7
+PSPAdventure,Europe,0.89
+PSPAdventure,Asia,7.5
+PSPFighting,North America,8.65
+PSPFighting,Europe,4.4
+PSPFighting,Asia,5.75
+PSPAction,North America,23.87
+PSPAction,Europe,17.15
+PSPAction,Asia,12.15
+PSPSimulation,North America,1.9
+PSPSimulation,Europe,2.05
+PSPSimulation,Asia,1.06
+PSPShooter,North America,10.26
+PSPShooter,Europe,5.29
+PSPShooter,Asia,0.45
+PSPMisc,North America,5.3
+PSPMisc,Europe,1.38
+PSPMisc,Asia,6.08
+PSPPuzzle,North America,2.85
+PSPPuzzle,Europe,1.24
+PSPPuzzle,Asia,0.53
+PSPRole-Playing,North America,11.46
+PSPRole-Playing,Europe,3.64
+PSPRole-Playing,Asia,30.82
+PSPRacing,North America,14.98
+PSPRacing,Europe,11.55
+PSPRacing,Asia,0.96
+PSPPlatform,North America,7.99
+PSPPlatform,Europe,5.26
+PSPPlatform,Asia,0.65
+PSPSports,North America,17.54
+PSPSports,Europe,11.68
+PSPSports,Asia,6.36
+XOneStrategy ,North America,0.27
+XOneStrategy ,Europe,0.11
+XOneStrategy ,Asia,0
+XOneAdventure,North America,1.27
+XOneAdventure,Europe,1.17
+XOneAdventure,Asia,0.03
+XOneFighting,North America,1.65
+XOneFighting,Europe,0.54
+XOneFighting,Asia,0.01
+XOneAction,North America,21.37
+XOneAction,Europe,12.58
+XOneAction,Asia,0.05
+XOneSimulation,North America,0.32
+XOneSimulation,Europe,0.31
+XOneSimulation,Asia,0
+XOneShooter,North America,36.86
+XOneShooter,Europe,17.8
+XOneShooter,Asia,0.16
+XOneMisc,North America,4.77
+XOneMisc,Europe,2
+XOneMisc,Asia,0.01
+XOneRole-Playing,North America,6.15
+XOneRole-Playing,Europe,3.43
+XOneRole-Playing,Asia,0.01
+XOneRacing,North America,4.36
+XOneRacing,Europe,4.58
+XOneRacing,Asia,0.05
+XOnePlatform,North America,0.51
+XOnePlatform,Europe,0.34
+XOnePlatform,Asia,0
+XOneSports,North America,15.59
+XOneSports,Europe,8.73
+XOneSports,Asia,0.02
+WiiUStrategy ,North America,0.49
+WiiUStrategy ,Europe,0.36
+WiiUStrategy ,Asia,0.31
+WiiUAdventure,North America,0.07
+WiiUAdventure,Europe,0.08
+WiiUAdventure,Asia,0
+WiiUFighting,North America,3.28
+WiiUFighting,Europe,1.49
+WiiUFighting,Asia,1.01
+WiiUAction,North America,9.69
+WiiUAction,Europe,6.74
+WiiUAction,Asia,1.09
+WiiUSimulation,North America,0.14
+WiiUSimulation,Europe,0.04
+WiiUSimulation,Asia,0
+WiiUShooter ,North America,2.34
+WiiUShooter ,Europe,1.75
+WiiUShooter ,Asia,1.54
+WiiUMisc,North America,5.5
+WiiUMisc,Europe,3.69
+WiiUMisc,Asia,2.45
+WiiUPuzzle,North America,0.62
+WiiUPuzzle,Europe,0.38
+WiiUPuzzle,Asia,0.22
+WiiURole-Playing,North America,1.06
+WiiURole-Playing,Europe,0.77
+WiiURole-Playing,Asia,0.89
+WiiURacing,North America,3.47
+WiiURacing,Europe,2.53
+WiiURacing,Asia,1.3
+WiiUPlatform,North America,9.94
+WiiUPlatform,Europe,6.38
+WiiUPlatform,Asia,3.68
+WiiUSports,North America,1.5
+WiiUSports,Europe,0.92
+WiiUSports,Asia,0.52
+GCStrategy ,North America,2.23
+GCStrategy ,Europe,0.62
+GCStrategy ,Asia,1.33
+GCAdventure,North America,3.82
+GCAdventure,Europe,1.26
+GCAdventure,Asia,0.67
+GCFighting,North America,11.29
+GCFighting,Europe,2.91
+GCFighting,Asia,3.69
+GCAction,North America,26.11
+GCAction,Europe,7.77
+GCAction,Asia,2.83
+GCSimulation,North America,5.37
+GCSimulation,Europe,1.74
+GCSimulation,Asia,1.21
+GCShooter,North America,10.01
+GCShooter,Europe,2.9
+GCShooter,Asia,0.37
+GCMisc,North America,10.07
+GCMisc,Europe,2.62
+GCMisc,Asia,3.58
+GCPuzzle,North America,2.95
+GCPuzzle,Europe,0.89
+GCPuzzle,Asia,0.73
+GCRole-Playing,North America,7.91
+GCRole-Playing,Europe,2.44
+GCRole-Playing,Asia,2.47
+GCRacing,North America,14.93
+GCRacing,Europe,4.83
+GCRacing,Asia,1.57
+GCPlatform,North America,20.4
+GCPlatform,Europe,5.95
+GCPlatform,Asia,1.5
+GCSports,North America,18.37
+GCSports,Europe,4.78
+GCSports,Asia,1.63
+GENStrategy ,North America,0
+GENStrategy ,Europe,0
+GENStrategy ,Asia,0.19
+GENAdventure,North America,0
+GENAdventure,Europe,0
+GENAdventure,Asia,0.19
+GENFighting,North America,3.98
+GENFighting,Europe,1.2
+GENFighting,Asia,0.54
+GENAction,North America,1.86
+GENAction,Europe,0.55
+GENAction,Asia,0.25
+GENShooter,North America,0
+GENShooter,Europe,0
+GENShooter,Asia,0.13
+GENMisc,North America,0
+GENMisc,Europe,0
+GENMisc,Asia,0.03
+GENRole-Playing,North America,0
+GENRole-Playing,Europe,0
+GENRole-Playing,Asia,0.27
+GENRacing,North America,0
+GENRacing,Europe,0
+GENRacing,Asia,0.26
+GENPlatform,North America,10.73
+GENPlatform,Europe,3.38
+GENPlatform,Asia,0.77
+GENSports,North America,2.7
+GENSports,Europe,0.39
+GENSports,Asia,0.04
+DCAdventure,North America,0.52
+DCAdventure,Europe,0.24
+DCAdventure,Asia,1.7
+DCFighting,North America,0
+DCFighting,Europe,0
+DCFighting,Asia,1.83
+DCAction,North America,0.41
+DCAction,Europe,0.23
+DCAction,Asia,0.59
+DCSimulation,North America,0
+DCSimulation,Europe,0
+DCSimulation,Asia,0.52
+DCShooter,North America,0
+DCShooter,Europe,0
+DCShooter,Asia,0.33
+DCRole-Playing,North America,0
+DCRole-Playing,Europe,0
+DCRole-Playing,Asia,0.68
+DCRacing,North America,1.1
+DCRacing,Europe,0.51
+DCRacing,Asia,0.96
+DCPlatform,North America,1.26
+DCPlatform,Europe,0.61
+DCPlatform,Asia,0.58
+DCSports,North America,2.14
+DCSports,Europe,0.1
+DCSports,Asia,1.37
+PSVStrategy ,North America,0.03
+PSVStrategy ,Europe,0.03
+PSVStrategy ,Asia,0.27
+PSVAdventure,North America,0.59
+PSVAdventure,Europe,0.58
+PSVAdventure,Asia,2.33
+PSVFighting,North America,1.05
+PSVFighting,Europe,0.55
+PSVFighting,Asia,0.68
+PSVAction,North America,3.73
+PSVAction,Europe,4.36
+PSVAction,Asia,6.85
+PSVSimulation,North America,0.01
+PSVSimulation,Europe,0
+PSVSimulation,Asia,0.07
+PSVShooter,North America,1.48
+PSVShooter,Europe,1.49
+PSVShooter,Asia,0.24
+PSVMisc,North America,0.68
+PSVMisc,Europe,0.97
+PSVMisc,Asia,2.31
+PSVPuzzle,North America,0.07
+PSVPuzzle,Europe,0.04
+PSVPuzzle,Asia,0.05
+PSVRole-Playing,North America,2.24
+PSVRole-Playing,Europe,1.33
+PSVRole-Playing,Asia,7.86
+PSVRacing,North America,0.78
+PSVRacing,Europe,1.11
+PSVRacing,Asia,0.16
+PSVPlatform,North America,0.77
+PSVPlatform,Europe,1.23
+PSVPlatform,Asia,0.06
+PSVSports,North America,1.15
+PSVSports,Europe,1.43
+PSVSports,Asia,1.05
+SATStrategy ,North America,0
+SATStrategy ,Europe,0
+SATStrategy ,Asia,3.24
+SATAdventure,North America,0
+SATAdventure,Europe,0
+SATAdventure,Asia,4.16
+SATFighting,North America,0.51
+SATFighting,Europe,0.38
+SATFighting,Asia,7.59
+SATAction,North America,0
+SATAction,Europe,0
+SATAction,Asia,0.65
+SATSimulation,North America,0
+SATSimulation,Europe,0
+SATSimulation,Asia,1.13
+SATShooter,North America,0
+SATShooter,Europe,0
+SATShooter,Asia,3.97
+SATMisc,North America,0
+SATMisc,Europe,0
+SATMisc,Asia,1.2
+SATPuzzle,North America,0
+SATPuzzle,Europe,0
+SATPuzzle,Asia,1
+SATRole-Playing,North America,0
+SATRole-Playing,Europe,0
+SATRole-Playing,Asia,3.76
+SATRacing,North America,0.21
+SATRacing,Europe,0.16
+SATRacing,Asia,2.01
+SATPlatform,North America,0
+SATPlatform,Europe,0
+SATPlatform,Asia,0.76
+SATSports,North America,0
+SATSports,Europe,0
+SATSports,Asia,2.79
+SCDStrategy ,North America,0
+SCDStrategy ,Europe,0
+SCDStrategy ,Asia,0.14
+SCDMisc,North America,0
+SCDMisc,Europe,0
+SCDMisc,Asia,0.09
+SCDRole-Playing,North America,0
+SCDRole-Playing,Europe,0
+SCDRole-Playing,Asia,0.06
+SCDRacing,North America,0
+SCDRacing,Europe,0
+SCDRacing,Asia,0.07
+SCDPlatform,North America,1
+SCDPlatform,Europe,0.36
+SCDPlatform,Asia,0.09
+WSStrategy ,North America,0
+WSStrategy ,Europe,0
+WSStrategy ,Asia,0.2
+WSRole-Playing,North America,0
+WSRole-Playing,Europe,0
+WSRole-Playing,Asia,1.22
+NGFighting,North America,0
+NGFighting,Europe,0
+NGFighting,Asia,1.42
+NGSports,North America,0
+NGSports,Europe,0
+NGSports,Asia,0.02
+TG16Adventure,North America,0
+TG16Adventure,Europe,0
+TG16Adventure,Asia,0.14
+TG16Shooter,North America,0
+TG16Shooter,Europe,0
+TG16Shooter,Asia,0.02
+3DOAdventure,North America,0
+3DOAdventure,Europe,0
+3DOAdventure,Asia,0.06
+3DOSimulation,North America,0
+3DOSimulation,Europe,0
+3DOSimulation,Asia,0.02
+3DOPuzzle,North America,0
+3DOPuzzle,Europe,0
+3DOPuzzle,Asia,0.02
+GGPlatform,North America,0
+GGPlatform,Europe,0
+GGPlatform,Asia,0.04
+PCFXRole-Playing,North America,0
+PCFXRole-Playing,Europe,0
+PCFXRole-Playing,Asia,0.03
