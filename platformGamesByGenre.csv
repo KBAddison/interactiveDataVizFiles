@@ -1,12 +1,12 @@
 ﻿Platform,Genre,Year,Amount,PlatformGenre
-Wii,Strategy ,2006,1,WiiStrategy 
-Wii,Strategy ,2007,4,WiiStrategy 
-Wii,Strategy ,2008,3,WiiStrategy 
-Wii,Strategy ,2009,7,WiiStrategy 
-Wii,Strategy ,2010,7,WiiStrategy 
-Wii,Strategy ,2011,2,WiiStrategy 
-Wii,Strategy ,2012,0,WiiStrategy 
-Wii,Strategy ,2013,1,WiiStrategy 
+Wii,Strategy,2006,1,WiiStrategy 
+Wii,Strategy,2007,4,WiiStrategy 
+Wii,Strategy,2008,3,WiiStrategy 
+Wii,Strategy,2009,7,WiiStrategy 
+Wii,Strategy,2010,7,WiiStrategy 
+Wii,Strategy,2011,2,WiiStrategy 
+Wii,Strategy,2012,0,WiiStrategy 
+Wii,Strategy,2013,1,WiiStrategy 
 Wii,Adventure,2006,1,WiiAdventure
 Wii,Adventure,2007,12,WiiAdventure
 Wii,Adventure,2008,24,WiiAdventure
@@ -173,17 +173,17 @@ NES,Sports,1988,2,NESSports
 NES,Sports,1989,0,NESSports
 NES,Sports,1990,2,NESSports
 NES,Sports,1991,2,NESSports
-GB,Strategy ,1991,1,GBStrategy 
-GB,Strategy ,1992,0,GBStrategy 
-GB,Strategy ,1993,0,GBStrategy 
-GB,Strategy ,1994,0,GBStrategy 
-GB,Strategy ,1995,0,GBStrategy 
-GB,Strategy ,1996,0,GBStrategy 
-GB,Strategy ,1997,1,GBStrategy 
-GB,Strategy ,1998,2,GBStrategy 
-GB,Strategy ,1999,1,GBStrategy 
-GB,Strategy ,2000,1,GBStrategy 
-GB,Strategy ,2001,1,GBStrategy 
+GB,Strategy,1991,1,GBStrategy 
+GB,Strategy,1992,0,GBStrategy 
+GB,Strategy,1993,0,GBStrategy 
+GB,Strategy,1994,0,GBStrategy 
+GB,Strategy,1995,0,GBStrategy 
+GB,Strategy,1996,0,GBStrategy 
+GB,Strategy,1997,1,GBStrategy 
+GB,Strategy,1998,2,GBStrategy 
+GB,Strategy,1999,1,GBStrategy 
+GB,Strategy,2000,1,GBStrategy 
+GB,Strategy,2001,1,GBStrategy 
 GB,Adventure,1991,1,GBAdventure
 GB,Adventure,1992,1,GBAdventure
 GB,Adventure,1993,0,GBAdventure
@@ -277,14 +277,14 @@ GB,Sports,1997,0,GBSports
 GB,Sports,1998,1,GBSports
 GB,Sports,1999,1,GBSports
 GB,Sports,2000,3,GBSports
-DS,Strategy ,2005,5,DSStrategy 
-DS,Strategy ,2006,7,DSStrategy 
-DS,Strategy ,2007,19,DSStrategy 
-DS,Strategy ,2008,18,DSStrategy 
-DS,Strategy ,2009,12,DSStrategy 
-DS,Strategy ,2010,10,DSStrategy 
-DS,Strategy ,2011,7,DSStrategy 
-DS,Strategy ,N/A,1,DSStrategy 
+DS,Strategy,2005,5,DSStrategy 
+DS,Strategy,2006,7,DSStrategy 
+DS,Strategy,2007,19,DSStrategy 
+DS,Strategy,2008,18,DSStrategy 
+DS,Strategy,2009,12,DSStrategy 
+DS,Strategy,2010,10,DSStrategy 
+DS,Strategy,2011,7,DSStrategy 
+DS,Strategy,N/A,1,DSStrategy 
 DS,Adventure,2004,1,DSAdventure
 DS,Adventure,2005,4,DSAdventure
 DS,Adventure,2006,14,DSAdventure
@@ -296,13 +296,13 @@ DS,Adventure,2011,14,DSAdventure
 DS,Adventure,2012,2,DSAdventure
 DS,Adventure,2013,1,DSAdventure
 DS,Adventure,N/A,2,DSAdventure
-DS,Fighting ,2005,4,DSFighting 
-DS,Fighting ,2006,7,DSFighting 
-DS,Fighting ,2007,10,DSFighting 
-DS,Fighting ,2008,4,DSFighting 
-DS,Fighting ,2009,5,DSFighting 
-DS,Fighting ,2010,4,DSFighting 
-DS,Fighting ,2011,2,DSFighting 
+DS,Fighting,2005,4,DSFighting 
+DS,Fighting,2006,7,DSFighting 
+DS,Fighting,2007,10,DSFighting 
+DS,Fighting,2008,4,DSFighting 
+DS,Fighting,2009,5,DSFighting 
+DS,Fighting,2010,4,DSFighting 
+DS,Fighting,2011,2,DSFighting 
 DS,Action,1985,1,DSAction
 DS,Action,1986,0,DSAction
 DS,Action,1987,0,DSAction
@@ -419,15 +419,15 @@ DS,Sports,2011,6,DSSports
 DS,Sports,2012,1,DSSports
 DS,Sports,2013,1,DSSports
 DS,Sports,N/A,2,DSSports
-X360,Strategy ,2006,3,X360Strategy 
-X360,Strategy ,2007,6,X360Strategy 
-X360,Strategy ,2008,6,X360Strategy 
-X360,Strategy ,2009,4,X360Strategy 
-X360,Strategy ,2010,6,X360Strategy 
-X360,Strategy ,2011,0,X360Strategy 
-X360,Strategy ,2012,1,X360Strategy 
-X360,Strategy ,2013,1,X360Strategy 
-X360,Strategy ,N/A,1,X360Strategy 
+X360,Strategy,2006,3,X360Strategy 
+X360,Strategy,2007,6,X360Strategy 
+X360,Strategy,2008,6,X360Strategy 
+X360,Strategy,2009,4,X360Strategy 
+X360,Strategy,2010,6,X360Strategy 
+X360,Strategy,2011,0,X360Strategy 
+X360,Strategy,2012,1,X360Strategy 
+X360,Strategy,2013,1,X360Strategy 
+X360,Strategy,N/A,1,X360Strategy 
 X360,Adventure,2007,2,X360Adventure
 X360,Adventure,2008,3,X360Adventure
 X360,Adventure,2009,8,X360Adventure
@@ -438,17 +438,17 @@ X360,Adventure,2013,1,X360Adventure
 X360,Adventure,2014,6,X360Adventure
 X360,Adventure,2015,4,X360Adventure
 X360,Adventure,2016,1,X360Adventure
-X360,Fighting ,2005,1,X360Fighting 
-X360,Fighting ,2006,5,X360Fighting 
-X360,Fighting ,2007,2,X360Fighting 
-X360,Fighting ,2008,7,X360Fighting 
-X360,Fighting ,2009,10,X360Fighting 
-X360,Fighting ,2010,10,X360Fighting 
-X360,Fighting ,2011,14,X360Fighting 
-X360,Fighting ,2012,9,X360Fighting 
-X360,Fighting ,2013,2,X360Fighting 
-X360,Fighting ,2014,4,X360Fighting 
-X360,Fighting ,2015,1,X360Fighting 
+X360,Fighting,2005,1,X360Fighting 
+X360,Fighting,2006,5,X360Fighting 
+X360,Fighting,2007,2,X360Fighting 
+X360,Fighting,2008,7,X360Fighting 
+X360,Fighting,2009,10,X360Fighting 
+X360,Fighting,2010,10,X360Fighting 
+X360,Fighting,2011,14,X360Fighting 
+X360,Fighting,2012,9,X360Fighting 
+X360,Fighting,2013,2,X360Fighting 
+X360,Fighting,2014,4,X360Fighting 
+X360,Fighting,2015,1,X360Fighting 
 X360,Action,2005,5,X360Action
 X360,Action,2006,19,X360Action
 X360,Action,2007,28,X360Action
@@ -548,14 +548,14 @@ X360,Sports,2014,7,X360Sports
 X360,Sports,2015,9,X360Sports
 X360,Sports,2016,6,X360Sports
 X360,Sports,N/A,5,X360Sports
-PS3,Strategy ,2008,3,PS3Strategy 
-PS3,Strategy ,2009,5,PS3Strategy 
-PS3,Strategy ,2010,2,PS3Strategy 
-PS3,Strategy ,2011,4,PS3Strategy 
-PS3,Strategy ,2012,4,PS3Strategy 
-PS3,Strategy ,2013,3,PS3Strategy 
-PS3,Strategy ,2014,1,PS3Strategy 
-PS3,Strategy ,N/A,2,PS3Strategy 
+PS3,Strategy,2008,3,PS3Strategy 
+PS3,Strategy,2009,5,PS3Strategy 
+PS3,Strategy,2010,2,PS3Strategy 
+PS3,Strategy,2011,4,PS3Strategy 
+PS3,Strategy,2012,4,PS3Strategy 
+PS3,Strategy,2013,3,PS3Strategy 
+PS3,Strategy,2014,1,PS3Strategy 
+PS3,Strategy,N/A,2,PS3Strategy 
 PS3,Adventure,2007,3,PS3Adventure
 PS3,Adventure,2008,5,PS3Adventure
 PS3,Adventure,2009,3,PS3Adventure
@@ -567,17 +567,17 @@ PS3,Adventure,2014,12,PS3Adventure
 PS3,Adventure,2015,7,PS3Adventure
 PS3,Adventure,2016,2,PS3Adventure
 PS3,Adventure,N/A,2,PS3Adventure
-PS3,Fighting ,2006,1,PS3Fighting 
-PS3,Fighting ,2007,2,PS3Fighting 
-PS3,Fighting ,2008,7,PS3Fighting 
-PS3,Fighting ,2009,9,PS3Fighting 
-PS3,Fighting ,2010,8,PS3Fighting 
-PS3,Fighting ,2011,16,PS3Fighting 
-PS3,Fighting ,2012,9,PS3Fighting 
-PS3,Fighting ,2013,7,PS3Fighting 
-PS3,Fighting ,2014,10,PS3Fighting 
-PS3,Fighting ,2015,5,PS3Fighting 
-PS3,Fighting ,2016,2,PS3Fighting 
+PS3,Fighting,2006,1,PS3Fighting 
+PS3,Fighting,2007,2,PS3Fighting 
+PS3,Fighting,2008,7,PS3Fighting 
+PS3,Fighting,2009,9,PS3Fighting 
+PS3,Fighting,2010,8,PS3Fighting 
+PS3,Fighting,2011,16,PS3Fighting 
+PS3,Fighting,2012,9,PS3Fighting 
+PS3,Fighting,2013,7,PS3Fighting 
+PS3,Fighting,2014,10,PS3Fighting 
+PS3,Fighting,2015,5,PS3Fighting 
+PS3,Fighting,2016,2,PS3Fighting 
 PS3,Action,2006,3,PS3Action
 PS3,Action,2007,21,PS3Action
 PS3,Action,2008,30,PS3Action
@@ -679,17 +679,17 @@ PS3,Sports,2014,13,PS3Sports
 PS3,Sports,2015,12,PS3Sports
 PS3,Sports,2016,8,PS3Sports
 PS3,Sports,N/A,3,PS3Sports
-PS2,Strategy ,2000,5,PS2Strategy 
-PS2,Strategy ,2001,2,PS2Strategy 
-PS2,Strategy ,2002,11,PS2Strategy 
-PS2,Strategy ,2003,11,PS2Strategy 
-PS2,Strategy ,2004,9,PS2Strategy 
-PS2,Strategy ,2005,5,PS2Strategy 
-PS2,Strategy ,2006,7,PS2Strategy 
-PS2,Strategy ,2007,14,PS2Strategy 
-PS2,Strategy ,2008,2,PS2Strategy 
-PS2,Strategy ,2009,4,PS2Strategy 
-PS2,Strategy ,N/A,1,PS2Strategy 
+PS2,Strategy,2000,5,PS2Strategy 
+PS2,Strategy,2001,2,PS2Strategy 
+PS2,Strategy,2002,11,PS2Strategy 
+PS2,Strategy,2003,11,PS2Strategy 
+PS2,Strategy,2004,9,PS2Strategy 
+PS2,Strategy,2005,5,PS2Strategy 
+PS2,Strategy,2006,7,PS2Strategy 
+PS2,Strategy,2007,14,PS2Strategy 
+PS2,Strategy,2008,2,PS2Strategy 
+PS2,Strategy,2009,4,PS2Strategy 
+PS2,Strategy,N/A,1,PS2Strategy 
 PS2,Adventure,2000,2,PS2Adventure
 PS2,Adventure,2001,5,PS2Adventure
 PS2,Adventure,2002,22,PS2Adventure
@@ -820,15 +820,15 @@ PS2,Sports,2009,18,PS2Sports
 PS2,Sports,2010,11,PS2Sports
 PS2,Sports,2011,3,PS2Sports
 PS2,Sports,N/A,9,PS2Sports
-SNES,Strategy ,1991,3,SNESStrategy 
-SNES,Strategy ,1992,1,SNESStrategy 
-SNES,Strategy ,1993,1,SNESStrategy 
-SNES,Strategy ,1994,3,SNESStrategy 
-SNES,Strategy ,1995,4,SNESStrategy 
-SNES,Strategy ,1996,2,SNESStrategy 
-SNES,Strategy ,1997,0,SNESStrategy 
-SNES,Strategy ,1998,0,SNESStrategy 
-SNES,Strategy ,1999,1,SNESStrategy 
+SNES,Strategy,1991,3,SNESStrategy 
+SNES,Strategy,1992,1,SNESStrategy 
+SNES,Strategy,1993,1,SNESStrategy 
+SNES,Strategy,1994,3,SNESStrategy 
+SNES,Strategy,1995,4,SNESStrategy 
+SNES,Strategy,1996,2,SNESStrategy 
+SNES,Strategy,1997,0,SNESStrategy 
+SNES,Strategy,1998,0,SNESStrategy 
+SNES,Strategy,1999,1,SNESStrategy 
 SNES,Adventure,1991,1,SNESAdventure
 SNES,Adventure,1992,1,SNESAdventure
 SNES,Adventure,1993,0,SNESAdventure
@@ -900,11 +900,11 @@ SNES,Sports,1995,10,SNESSports
 SNES,Sports,1996,6,SNESSports
 SNES,Sports,1997,2,SNESSports
 SNES,Sports,1998,1,SNESSports
-GBA,Strategy ,2001,5,GBAStrategy 
-GBA,Strategy ,2002,3,GBAStrategy 
-GBA,Strategy ,2003,5,GBAStrategy 
-GBA,Strategy ,2004,3,GBAStrategy 
-GBA,Strategy ,2005,2,GBAStrategy 
+GBA,Strategy,2001,5,GBAStrategy 
+GBA,Strategy,2002,3,GBAStrategy 
+GBA,Strategy,2003,5,GBAStrategy 
+GBA,Strategy,2004,3,GBAStrategy 
+GBA,Strategy,2005,2,GBAStrategy 
 GBA,Adventure,2001,5,GBAAdventure
 GBA,Adventure,2002,5,GBAAdventure
 GBA,Adventure,2003,1,GBAAdventure
@@ -977,17 +977,17 @@ GBA,Sports,2003,17,GBASports
 GBA,Sports,2004,14,GBASports
 GBA,Sports,2005,8,GBASports
 GBA,Sports,2006,4,GBASports
-PS4,Strategy ,2013,1,PS4Strategy 
-PS4,Strategy ,2014,2,PS4Strategy 
-PS4,Strategy ,2015,1,PS4Strategy 
-PS4,Strategy ,2016,2,PS4Strategy 
+PS4,Strategy,2013,1,PS4Strategy 
+PS4,Strategy,2014,2,PS4Strategy 
+PS4,Strategy,2015,1,PS4Strategy 
+PS4,Strategy,2016,2,PS4Strategy 
 PS4,Adventure,2014,4,PS4Adventure
 PS4,Adventure,2015,10,PS4Adventure
 PS4,Adventure,2016,14,PS4Adventure
-PS4,Fighting ,2013,1,PS4Fighting 
-PS4,Fighting ,2014,1,PS4Fighting 
-PS4,Fighting ,2015,9,PS4Fighting 
-PS4,Fighting ,2016,7,PS4Fighting 
+PS4,Fighting,2013,1,PS4Fighting 
+PS4,Fighting,2014,1,PS4Fighting 
+PS4,Fighting,2015,9,PS4Fighting 
+PS4,Fighting,2016,7,PS4Fighting 
 PS4,Action,2013,2,PS4Action
 PS4,Action,2014,31,PS4Action
 PS4,Action,2015,52,PS4Action
@@ -1019,12 +1019,12 @@ PS4,Sports,2013,4,PS4Sports
 PS4,Sports,2014,11,PS4Sports
 PS4,Sports,2015,15,PS4Sports
 PS4,Sports,2016,16,PS4Sports
-3DS,Strategy ,2011,4,3DSStrategy 
-3DS,Strategy ,2012,0,3DSStrategy 
-3DS,Strategy ,2013,3,3DSStrategy 
-3DS,Strategy ,2014,3,3DSStrategy 
-3DS,Strategy ,2015,4,3DSStrategy 
-3DS,Strategy ,2016,1,3DSStrategy 
+3DS,Strategy,2011,4,3DSStrategy 
+3DS,Strategy,2012,0,3DSStrategy 
+3DS,Strategy,2013,3,3DSStrategy 
+3DS,Strategy,2014,3,3DSStrategy 
+3DS,Strategy,2015,4,3DSStrategy 
+3DS,Strategy,2016,1,3DSStrategy 
 3DS,Adventure,2011,4,3DSAdventure
 3DS,Adventure,2012,6,3DSAdventure
 3DS,Adventure,2013,6,3DSAdventure
@@ -1032,12 +1032,12 @@ PS4,Sports,2016,16,PS4Sports
 3DS,Adventure,2015,4,3DSAdventure
 3DS,Adventure,2016,5,3DSAdventure
 3DS,Adventure,N/A,1,3DSAdventure
-3DS,Fighting ,2011,5,3DSFighting 
-3DS,Fighting ,2012,2,3DSFighting 
-3DS,Fighting ,2013,2,3DSFighting 
-3DS,Fighting ,2014,2,3DSFighting 
-3DS,Fighting ,2015,2,3DSFighting 
-3DS,Fighting ,2016,1,3DSFighting 
+3DS,Fighting,2011,5,3DSFighting 
+3DS,Fighting,2012,2,3DSFighting 
+3DS,Fighting,2013,2,3DSFighting 
+3DS,Fighting,2014,2,3DSFighting 
+3DS,Fighting,2015,2,3DSFighting 
+3DS,Fighting,2016,1,3DSFighting 
 3DS,Action,2011,31,3DSAction
 3DS,Action,2012,40,3DSAction
 3DS,Action,2013,29,3DSAction
@@ -1089,17 +1089,17 @@ PS4,Sports,2016,16,PS4Sports
 3DS,Sports,2014,4,3DSSports
 3DS,Sports,2015,1,3DSSports
 3DS,Sports,N/A,1,3DSSports
-N64,Strategy ,1998,1,N64Strategy 
-N64,Strategy ,1999,5,N64Strategy 
-N64,Strategy ,2000,3,N64Strategy 
+N64,Strategy,1998,1,N64Strategy 
+N64,Strategy,1999,5,N64Strategy 
+N64,Strategy,2000,3,N64Strategy 
 N64,Adventure,1997,1,N64Adventure
 N64,Adventure,1998,0,N64Adventure
 N64,Adventure,1999,3,N64Adventure
-N64,Fighting ,1996,2,N64Fighting 
-N64,Fighting ,1997,8,N64Fighting 
-N64,Fighting ,1998,7,N64Fighting 
-N64,Fighting ,1999,7,N64Fighting 
-N64,Fighting ,2000,5,N64Fighting 
+N64,Fighting,1996,2,N64Fighting 
+N64,Fighting,1997,8,N64Fighting 
+N64,Fighting,1998,7,N64Fighting 
+N64,Fighting,1999,7,N64Fighting 
+N64,Fighting,2000,5,N64Fighting 
 N64,Action,1996,2,N64Action
 N64,Action,1997,5,N64Action
 N64,Action,1998,7,N64Action
@@ -1133,11 +1133,11 @@ N64,Role-Playing,1999,2,N64Role-Playing
 N64,Role-Playing,2000,3,N64Role-Playing
 N64,Role-Playing,2001,1,N64Role-Playing
 N64,Role-Playing,N/A,1,N64Role-Playing
-N64,Racing ,1996,3,N64Racing 
-N64,Racing ,1997,8,N64Racing 
-N64,Racing ,1998,16,N64Racing 
-N64,Racing ,1999,20,N64Racing 
-N64,Racing ,2000,10,N64Racing 
+N64,Racing,1996,3,N64Racing 
+N64,Racing,1997,8,N64Racing 
+N64,Racing,1998,16,N64Racing 
+N64,Racing,1999,20,N64Racing 
+N64,Racing,2000,10,N64Racing 
 N64,Platform,1996,1,N64Platform
 N64,Platform,1997,4,N64Platform
 N64,Platform,1998,7,N64Platform
@@ -1151,14 +1151,14 @@ N64,Sports,1999,22,N64Sports
 N64,Sports,2000,12,N64Sports
 N64,Sports,2001,4,N64Sports
 N64,Sports,2002,1,N64Sports
-PS,Strategy ,1994,1,PSStrategy 
-PS,Strategy ,1995,6,PSStrategy 
-PS,Strategy ,1996,6,PSStrategy 
-PS,Strategy ,1997,13,PSStrategy 
-PS,Strategy ,1998,20,PSStrategy 
-PS,Strategy ,1999,17,PSStrategy 
-PS,Strategy ,2000,5,PSStrategy 
-PS,Strategy ,2001,3,PSStrategy 
+PS,Strategy,1994,1,PSStrategy 
+PS,Strategy,1995,6,PSStrategy 
+PS,Strategy,1996,6,PSStrategy 
+PS,Strategy,1997,13,PSStrategy 
+PS,Strategy,1998,20,PSStrategy 
+PS,Strategy,1999,17,PSStrategy 
+PS,Strategy,2000,5,PSStrategy 
+PS,Strategy,2001,3,PSStrategy 
 PS,Adventure,1994,1,PSAdventure
 PS,Adventure,1995,6,PSAdventure
 PS,Adventure,1996,9,PSAdventure
@@ -1169,15 +1169,15 @@ PS,Adventure,2000,9,PSAdventure
 PS,Adventure,2001,7,PSAdventure
 PS,Adventure,2002,2,PSAdventure
 PS,Adventure,N/A,2,PSAdventure
-PS,Fighting ,1994,2,PSFighting 
-PS,Fighting ,1995,12,PSFighting 
-PS,Fighting ,1996,17,PSFighting 
-PS,Fighting ,1997,16,PSFighting 
-PS,Fighting ,1998,29,PSFighting 
-PS,Fighting ,1999,14,PSFighting 
-PS,Fighting ,2000,11,PSFighting 
-PS,Fighting ,2001,4,PSFighting 
-PS,Fighting ,2002,3,PSFighting 
+PS,Fighting,1994,2,PSFighting 
+PS,Fighting,1995,12,PSFighting 
+PS,Fighting,1996,17,PSFighting 
+PS,Fighting,1997,16,PSFighting 
+PS,Fighting,1998,29,PSFighting 
+PS,Fighting,1999,14,PSFighting 
+PS,Fighting,2000,11,PSFighting 
+PS,Fighting,2001,4,PSFighting 
+PS,Fighting,2002,3,PSFighting 
 PS,Action,1995,6,PSAction
 PS,Action,1996,17,PSAction
 PS,Action,1997,23,PSAction
@@ -1259,22 +1259,22 @@ PS,Sports,2001,20,PSSports
 PS,Sports,2002,3,PSSports
 PS,Sports,2003,1,PSSports
 PS,Sports,N/A,1,PSSports
-XB,Strategy ,2002,1,XBStrategy 
-XB,Strategy ,2003,8,XBStrategy 
-XB,Strategy ,2004,7,XBStrategy 
-XB,Strategy ,2005,4,XBStrategy 
-XB,Strategy ,2006,1,XBStrategy 
+XB,Strategy,2002,1,XBStrategy 
+XB,Strategy,2003,8,XBStrategy 
+XB,Strategy,2004,7,XBStrategy 
+XB,Strategy,2005,4,XBStrategy 
+XB,Strategy,2006,1,XBStrategy 
 XB,Adventure,2002,6,XBAdventure
 XB,Adventure,2003,2,XBAdventure
 XB,Adventure,2004,6,XBAdventure
 XB,Adventure,2005,11,XBAdventure
 XB,Adventure,2006,1,XBAdventure
-XB,Fighting ,2001,1,XBFighting 
-XB,Fighting ,2002,10,XBFighting 
-XB,Fighting ,2003,10,XBFighting 
-XB,Fighting ,2004,12,XBFighting 
-XB,Fighting ,2005,8,XBFighting 
-XB,Fighting ,2006,3,XBFighting 
+XB,Fighting,2001,1,XBFighting 
+XB,Fighting,2002,10,XBFighting 
+XB,Fighting,2003,10,XBFighting 
+XB,Fighting,2004,12,XBFighting 
+XB,Fighting,2005,8,XBFighting 
+XB,Fighting,2006,3,XBFighting 
 XB,Fighting ,N/A,4,XBFighting 
 XB,Action,2001,4,XBAction
 XB,Action,2002,28,XBAction
@@ -1333,32 +1333,32 @@ XB,Sports,2006,20,XBSports
 XB,Sports,2007,2,XBSports
 XB,Sports,2008,1,XBSports
 XB,Sports,N/A,4,XBSports
-PC,Strategy ,1992,2,PCStrategy 
-PC,Strategy ,1993,0,PCStrategy 
-PC,Strategy ,1994,1,PCStrategy 
-PC,Strategy ,1995,1,PCStrategy 
-PC,Strategy ,1996,1,PCStrategy 
-PC,Strategy ,1997,2,PCStrategy 
-PC,Strategy ,1998,5,PCStrategy 
-PC,Strategy ,1999,2,PCStrategy 
-PC,Strategy ,2000,2,PCStrategy 
-PC,Strategy ,2001,7,PCStrategy 
-PC,Strategy ,2002,6,PCStrategy 
-PC,Strategy ,2003,10,PCStrategy 
-PC,Strategy ,2004,8,PCStrategy 
-PC,Strategy ,2005,8,PCStrategy 
-PC,Strategy ,2006,14,PCStrategy 
-PC,Strategy ,2007,16,PCStrategy 
-PC,Strategy ,2008,14,PCStrategy 
-PC,Strategy ,2009,24,PCStrategy 
-PC,Strategy ,2010,16,PCStrategy 
-PC,Strategy ,2011,20,PCStrategy 
-PC,Strategy ,2012,6,PCStrategy 
-PC,Strategy ,2013,3,PCStrategy 
-PC,Strategy ,2014,1,PCStrategy 
-PC,Strategy ,2015,8,PCStrategy 
-PC,Strategy ,2016,8,PCStrategy 
-PC,Strategy ,N/A,3,PCStrategy 
+PC,Strategy,1992,2,PCStrategy 
+PC,Strategy,1993,0,PCStrategy 
+PC,Strategy,1994,1,PCStrategy 
+PC,Strategy,1995,1,PCStrategy 
+PC,Strategy,1996,1,PCStrategy 
+PC,Strategy,1997,2,PCStrategy 
+PC,Strategy,1998,5,PCStrategy 
+PC,Strategy,1999,2,PCStrategy 
+PC,Strategy,2000,2,PCStrategy 
+PC,Strategy,2001,7,PCStrategy 
+PC,Strategy,2002,6,PCStrategy 
+PC,Strategy,2003,10,PCStrategy 
+PC,Strategy,2004,8,PCStrategy 
+PC,Strategy,2005,8,PCStrategy 
+PC,Strategy,2006,14,PCStrategy 
+PC,Strategy,2007,16,PCStrategy 
+PC,Strategy,2008,14,PCStrategy 
+PC,Strategy,2009,24,PCStrategy 
+PC,Strategy,2010,16,PCStrategy 
+PC,Strategy,2011,20,PCStrategy 
+PC,Strategy,2012,6,PCStrategy 
+PC,Strategy,2013,3,PCStrategy 
+PC,Strategy,2014,1,PCStrategy 
+PC,Strategy,2015,8,PCStrategy 
+PC,Strategy,2016,8,PCStrategy 
+PC,Strategy,N/A,3,PCStrategy 
 PC,Adventure,1992,1,PCAdventure
 PC,Adventure,1993,0,PCAdventure
 PC,Adventure,1994,1,PCAdventure
@@ -1649,17 +1649,17 @@ PC,Sports,2016,5,PCSports
 2600,Sports,1986,1,2600Sports
 2600,Sports,1987,2,2600Sports
 2600,Sports,N/A,2,2600Sports
-PSP,Strategy ,2004,1,PSPStrategy 
-PSP,Strategy ,2005,3,PSPStrategy 
-PSP,Strategy ,2006,9,PSPStrategy 
-PSP,Strategy ,2007,8,PSPStrategy 
-PSP,Strategy ,2008,4,PSPStrategy 
-PSP,Strategy ,2009,8,PSPStrategy 
-PSP,Strategy ,2010,12,PSPStrategy 
-PSP,Strategy ,2011,9,PSPStrategy 
-PSP,Strategy ,2012,3,PSPStrategy 
-PSP,Strategy ,2013,1,PSPStrategy 
-PSP,Strategy ,N/A,2,PSPStrategy 
+PSP,Strategy,2004,1,PSPStrategy 
+PSP,Strategy,2005,3,PSPStrategy 
+PSP,Strategy,2006,9,PSPStrategy 
+PSP,Strategy,2007,8,PSPStrategy 
+PSP,Strategy,2008,4,PSPStrategy 
+PSP,Strategy,2009,8,PSPStrategy 
+PSP,Strategy,2010,12,PSPStrategy 
+PSP,Strategy,2011,9,PSPStrategy 
+PSP,Strategy,2012,3,PSPStrategy 
+PSP,Strategy,2013,1,PSPStrategy 
+PSP,Strategy,N/A,2,PSPStrategy 
 PSP,Adventure,2005,3,PSPAdventure
 PSP,Adventure,2006,11,PSPAdventure
 PSP,Adventure,2007,3,PSPAdventure
@@ -1765,10 +1765,10 @@ PSP,Sports,2012,5,PSPSports
 PSP,Sports,2013,4,PSPSports
 PSP,Sports,2014,1,PSPSports
 PSP,Sports,N/A,5,PSPSports
-XOne,Strategy ,2013,1,XOneStrategy 
-XOne,Strategy ,2014,0,XOneStrategy 
-XOne,Strategy ,2015,1,XOneStrategy 
-XOne,Strategy ,2016,1,XOneStrategy 
+XOne,Strategy,2013,1,XOneStrategy 
+XOne,Strategy,2014,0,XOneStrategy 
+XOne,Strategy,2015,1,XOneStrategy 
+XOne,Strategy,2016,1,XOneStrategy 
 XOne,Adventure,2014,5,XOneAdventure
 XOne,Adventure,2015,6,XOneAdventure
 XOne,Adventure,2016,3,XOneAdventure
@@ -1807,8 +1807,8 @@ XOne,Sports,2013,4,XOneSports
 XOne,Sports,2014,10,XOneSports
 XOne,Sports,2015,13,XOneSports
 XOne,Sports,2016,11,XOneSports
-WiiU,Strategy ,2012,1,WiiUStrategy 
-WiiU,Strategy ,2013,2,WiiUStrategy 
+WiiU,Strategy,2012,1,WiiUStrategy 
+WiiU,Strategy,2013,2,WiiUStrategy 
 WiiU,Adventure,2014,2,WiiUAdventure
 WiiU,Adventure,2015,0,WiiUAdventure
 WiiU,Adventure,2016,1,WiiUAdventure
@@ -1823,11 +1823,11 @@ WiiU,Action,2014,18,WiiUAction
 WiiU,Action,2015,11,WiiUAction
 WiiU,Action,2016,6,WiiUAction
 WiiU,Simulation,2013,1,WiiUSimulation
-WiiU,Shooter ,2012,2,WiiUShooter 
-WiiU,Shooter ,2013,5,WiiUShooter 
-WiiU,Shooter ,2014,1,WiiUShooter 
-WiiU,Shooter ,2015,1,WiiUShooter 
-WiiU,Shooter ,2016,1,WiiUShooter 
+WiiU,Shooter,2012,2,WiiUShooter 
+WiiU,Shooter,2013,5,WiiUShooter 
+WiiU,Shooter,2014,1,WiiUShooter 
+WiiU,Shooter,2015,1,WiiUShooter 
+WiiU,Shooter,2016,1,WiiUShooter 
 WiiU,Misc,2012,4,WiiUMisc
 WiiU,Misc,2013,5,WiiUMisc
 WiiU,Misc,2014,4,WiiUMisc
@@ -1853,11 +1853,11 @@ WiiU,Sports,2012,3,WiiUSports
 WiiU,Sports,2013,3,WiiUSports
 WiiU,Sports,2014,1,WiiUSports
 WiiU,Sports,2015,1,WiiUSports
-GC,Strategy ,2001,1,GCStrategy 
-GC,Strategy ,2002,1,GCStrategy 
-GC,Strategy ,2003,3,GCStrategy 
-GC,Strategy ,2004,4,GCStrategy 
-GC,Strategy ,2005,2,GCStrategy 
+GC,Strategy,2001,1,GCStrategy 
+GC,Strategy,2002,1,GCStrategy 
+GC,Strategy,2003,3,GCStrategy 
+GC,Strategy,2004,4,GCStrategy 
+GC,Strategy,2005,2,GCStrategy 
 GC,Adventure,2001,1,GCAdventure
 GC,Adventure,2002,6,GCAdventure
 GC,Adventure,2003,2,GCAdventure
@@ -1993,10 +1993,10 @@ DC,Platform,2000,0,DCPlatform
 DC,Platform,2001,1,DCPlatform
 DC,Sports,1999,6,DCSports
 DC,Sports,2000,4,DCSports
-PSV,Strategy ,2013,3,PSVStrategy 
-PSV,Strategy ,2014,1,PSVStrategy 
-PSV,Strategy ,2015,2,PSVStrategy 
-PSV,Strategy ,2016,1,PSVStrategy 
+PSV,Strategy,2013,3,PSVStrategy 
+PSV,Strategy,2014,1,PSVStrategy 
+PSV,Strategy,2015,2,PSVStrategy 
+PSV,Strategy,2016,1,PSVStrategy 
 PSV,Adventure,2011,1,PSVAdventure
 PSV,Adventure,2012,6,PSVAdventure
 PSV,Adventure,2013,12,PSVAdventure
@@ -2062,10 +2062,10 @@ PSV,Sports,2013,7,PSVSports
 PSV,Sports,2014,4,PSVSports
 PSV,Sports,2015,4,PSVSports
 PSV,Sports,2016,2,PSVSports
-SAT,Strategy ,1995,3,SATStrategy 
-SAT,Strategy ,1996,3,SATStrategy 
-SAT,Strategy ,1997,5,SATStrategy 
-SAT,Strategy ,1998,7,SATStrategy 
+SAT,Strategy,1995,3,SATStrategy 
+SAT,Strategy,1996,3,SATStrategy 
+SAT,Strategy,1997,5,SATStrategy 
+SAT,Strategy,1998,7,SATStrategy 
 SAT,Adventure,1994,1,SATAdventure
 SAT,Adventure,1995,4,SATAdventure
 SAT,Adventure,1996,8,SATAdventure
@@ -2113,13 +2113,13 @@ SAT,Sports,1996,3,SATSports
 SAT,Sports,1997,2,SATSports
 SAT,Sports,1998,4,SATSports
 SAT,Sports,1999,1,SATSports
-SCD,Strategy ,1994,1,SCDStrategy 
+SCD,Strategy,1994,1,SCDStrategy 
 SCD,Misc,1994,2,SCDMisc
 SCD,Role-Playing,1994,1,SCDRole-Playing
 SCD,Racing,1994,1,SCDRacing
 SCD,Platform,1993,1,SCDPlatform
-WS,Strategy ,2000,1,WSStrategy 
-WS,Strategy ,2001,1,WSStrategy 
+WS,Strategy,2000,1,WSStrategy 
+WS,Strategy,2001,1,WSStrategy 
 WS,Role-Playing,1999,2,WSRole-Playing
 WS,Role-Playing,2000,1,WSRole-Playing
 WS,Role-Playing,2001,1,WSRole-Playing
